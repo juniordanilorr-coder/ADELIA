@@ -1,0 +1,651 @@
+﻿cliente_id,nome_cliente,cidade,estado,data_cadastro,tipo_cliente
+C0051,Tatiana Barbosa,Campinas,SP,2023-01-01,Pessoa Física
+C0304,Henrique Costa,Campinas,SP,2023-01-01,Pessoa Física
+C0584,Gabriela Barbosa,Guaratinguetá,SP,2023-01-01,Pessoa Física
+C0588,Olivia Santos,Santos,SP,2023-01-01,Pessoa Física
+C0581,Olivia Cardoso,Jacareí,SP,2023-01-02,Pessoa Física
+C0531,Caio Souza,São Paulo,SP,2023-01-04,Pessoa Física
+C0039,Isabela Vieira,Jacareí,SP,2023-01-05,Pessoa Física
+C0555,Gustavo Moreira,Santos,SP,2023-01-08,Pessoa Física
+C0012,Enzo Costa,Taubaté,SP,2023-01-09,Pessoa Física
+C0583,Mateus Machado,Santos,SP,2023-01-13,Pessoa Física
+C0366,Daniel Souza,Guaratinguetá,SP,2023-01-18,Pessoa Física
+C0500,Tatiana Rocha,Taubaté,SP,2023-01-18,Pessoa Física
+C0128,Paula Nunes,Santos,SP,2023-01-29,Pessoa Física
+C0002,Igor Carvalho,São Paulo,SP,2023-01-31,Pessoa Física
+C0190,Helena Nunes,Campinas,SP,2023-02-02,Pessoa Física
+C0047,Karina Andrade,São Paulo,SP,2023-02-05,Pessoa Física
+C0085,Beatriz Nunes,Guaratinguetá,SP,2023-02-05,Pessoa Física
+C0200,Enzo Andrade,Jacareí,SP,2023-02-06,Pessoa Física
+C0020,Helena Cardoso,São Paulo,SP,2023-02-08,Pessoa Física
+C0276,Carla Lopes,Guaratinguetá,SP,2023-02-09,Pessoa Física
+C0563,Leonardo Araújo,Pindamonhangaba,SP,2023-02-12,Pessoa Física
+C0621,Caio Carvalho,Jacareí,SP,2023-02-14,Pessoa Física
+C0511,Karina Nascimento,Pindamonhangaba,SP,2023-02-16,Pessoa Física
+C0434,Juliana Gomes,São José dos Campos,SP,2023-02-18,Pessoa Física
+C0157,Mateus Nunes,Campinas,SP,2023-02-21,Pessoa Física
+C0449,Gabriela Vieira,Sorocaba,SP,2023-02-22,Pessoa Jurídica
+C0183,Beatriz Costa,Pindamonhangaba,SP,2023-02-25,Pessoa Física
+C0517,Pedro Almeida,Pindamonhangaba,SP,2023-02-25,Pessoa Física
+C0297,Eduarda Moraes,Pindamonhangaba,SP,2023-02-28,Pessoa Física
+C0324,Gustavo Machado,Guaratinguetá,SP,2023-03-03,Pessoa Física
+C0187,Nicolas Ferreira,Pindamonhangaba,SP,2023-03-11,Pessoa Física
+C0087,Gabriela Ribeiro,Taubaté,SP,2023-03-15,Pessoa Física
+C0357,Rafaela Campos,Sorocaba,SP,2023-03-16,Pessoa Física
+C0553,Helena Carvalho,São José dos Campos,SP,2023-03-18,Pessoa Física
+C0397,Rafaela Mendes,Jacareí,SP,2023-03-21,Pessoa Física
+C0057,Bruno Lopes,Sorocaba,SP,2023-03-22,Pessoa Física
+C0360,Eduarda Rocha,Guaratinguetá,SP,2023-03-23,Pessoa Física
+C0554,Mateus Campos,Campinas,SP,2023-03-26,Pessoa Física
+C0234,Gustavo Moraes,São José dos Campos,SP,2023-03-28,Pessoa Física
+C0303,Juliana Silva,Taubaté,SP,2023-03-30,Pessoa Física
+C0151,Gustavo Almeida,São Paulo,SP,2023-04-02,Pessoa Física
+C0394,Eduarda Campos,São José dos Campos,SP,2023-04-02,Pessoa Física
+C0559,Isabela Monteiro,São Paulo,SP,2023-04-06,Pessoa Física
+C0374,Leonardo Machado,Sorocaba,SP,2023-04-10,Pessoa Física
+C0088,Eduarda Santos,Santos,SP,2023-04-11,Pessoa Física
+C0403,Juliana Lima,Sorocaba,SP,2023-04-11,Pessoa Física
+C0188,Daniel Moreira,Santos,SP,2023-04-15,Pessoa Física
+C0425,Rafaela Nascimento,São José dos Campos,SP,2023-04-15,Pessoa Física
+C0196,Samuel Rocha,Pindamonhangaba,SP,2023-04-22,Pessoa Física
+C0467,Henrique Fernandes,São José dos Campos,SP,2023-04-22,Pessoa Física
+C0140,Nicolas Nascimento,São José dos Campos,SP,2023-04-29,Pessoa Física
+C0138,Bruno Moreira,São Paulo,SP,2023-05-06,Pessoa Física
+C0252,Felipe Gomes,Taubaté,SP,2023-05-06,Pessoa Física
+C0617,Karina Moraes,Jacareí,SP,2023-05-07,Pessoa Física
+C0595,Felipe Machado,Campinas,SP,2023-05-08,Pessoa Física
+C0052,Tatiana Ribeiro,Santos,SP,2023-05-09,Pessoa Física
+C0629,Tatiana Andrade,Taubaté,SP,2023-05-11,Pessoa Física
+C0168,Isabela Oliveira,Campinas,SP,2023-05-12,Pessoa Física
+C0221,Carla Santos,Taubaté,SP,2023-05-12,Pessoa Jurídica
+C0295,Tatiana Ferreira,São Paulo,SP,2023-05-15,Pessoa Física
+C0229,Bruno Moreira,São José dos Campos,SP,2023-05-16,Pessoa Física
+C0420,Rafaela Mendes,Guaratinguetá,SP,2023-05-17,Pessoa Física
+C0571,Rafaela Mendes,Campinas,SP,2023-05-17,Pessoa Física
+C0395,Fernanda Fernandes,Pindamonhangaba,SP,2023-05-19,Pessoa Física
+C0640,Beatriz Barbosa,Campinas,SP,2023-05-24,Pessoa Física
+C0634,Tatiana Martins,Jacareí,SP,2023-06-01,Pessoa Jurídica
+C0281,Lucas Lopes,Guaratinguetá,SP,2023-06-04,Pessoa Física
+C0261,Mariana Nunes,Taubaté,SP,2023-06-05,Pessoa Física
+C0235,Caio Vieira,Pindamonhangaba,SP,2023-06-06,Pessoa Física
+C0290,Leonardo Nunes,São Paulo,SP,2023-06-06,Pessoa Física
+C0457,Juliana Carvalho,Santos,SP,2023-06-09,Pessoa Física
+C0619,Gustavo Rocha,Taubaté,SP,2023-06-09,Pessoa Física
+C0038,Pedro Araújo,Santos,SP,2023-06-10,Pessoa Física
+C0590,Ana Silva,Jacareí,SP,2023-06-12,Pessoa Física
+C0466,Vinicius Fernandes,Jacareí,SP,2023-06-14,Pessoa Física
+C0208,Bruno Souza,Taubaté,SP,2023-06-15,Pessoa Física
+C0487,Enzo Moraes,Pindamonhangaba,SP,2023-06-16,Pessoa Física
+C0009,Débora Campos,Pindamonhangaba,SP,2023-06-26,Pessoa Física
+C0236,Pedro Nascimento,São José dos Campos,SP,2023-06-28,Pessoa Física
+C0150,Enzo Araújo,Jacareí,SP,2023-06-30,Pessoa Física
+C0396,Helena Nascimento,Campinas,SP,2023-07-01,Pessoa Física
+C0577,Mariana Carvalho,Pindamonhangaba,SP,2023-07-01,Pessoa Física
+C0337,Eduarda Martins,Taubaté,SP,2023-07-02,Pessoa Física
+C0476,Felipe Machado,Pindamonhangaba,SP,2023-07-02,Pessoa Física
+C0606,Vinicius Araújo,Caçapava,SP,2023-07-05,Pessoa Física
+C0195,Beatriz Freitas,Taubaté,SP,2023-07-06,Pessoa Física
+C0017,Samuel Freitas,Guaratinguetá,SP,2023-07-07,Pessoa Física
+C0066,Rafaela Vieira,Santos,SP,2023-07-11,Pessoa Física
+C0254,Daniel Monteiro,Campinas,SP,2023-07-14,Pessoa Física
+C0368,Bruno Ferreira,Caçapava,SP,2023-07-16,Pessoa Física
+C0458,Paula Costa,São José dos Campos,SP,2023-07-16,Pessoa Jurídica
+C0604,Helena Campos,Santos,SP,2023-07-16,Pessoa Física
+C0646,Henrique Silva,Pindamonhangaba,SP,2023-07-18,Pessoa Física
+C0101,Fernanda Monteiro,Sorocaba,SP,2023-07-19,Pessoa Física
+C0440,Lucas Freitas,Taubaté,SP,2023-07-19,Pessoa Física
+C0024,Samuel Barbosa,Jacareí,SP,2023-07-22,Pessoa Jurídica
+C0149,Gabriela Santos,Taubaté,SP,2023-07-24,Pessoa Física
+C0414,Gabriela Costa,Caçapava,SP,2023-07-27,Pessoa Física
+C0033,Igor Almeida,Guaratinguetá,SP,2023-07-28,Pessoa Física
+C0060,Lucas Andrade,Caçapava,SP,2023-07-30,Pessoa Física
+C0011,Rafaela Teixeira,Caçapava,SP,2023-07-31,Pessoa Física
+C0455,João Souza,Taubaté,SP,2023-08-04,Pessoa Física
+C0291,Mateus Freitas,São Paulo,SP,2023-08-07,Pessoa Física
+C0142,Daniel Teixeira,Caçapava,SP,2023-08-08,Pessoa Física
+C0192,Fernanda Carvalho,Caçapava,SP,2023-08-08,Pessoa Jurídica
+C0481,Pedro Pereira,Campinas,SP,2023-08-10,Pessoa Física
+C0003,Ana Silva,Pindamonhangaba,SP,2023-08-12,Pessoa Física
+C0436,Beatriz Lima,Guaratinguetá,SP,2023-08-12,Pessoa Física
+C0502,Pedro Oliveira,Caçapava,SP,2023-08-12,Pessoa Física
+C0639,Daniel Costa,Campinas,SP,2023-08-12,Pessoa Física
+C0365,Eduarda Moraes,São José dos Campos,SP,2023-08-13,Pessoa Física
+C0099,Gabriela Freitas,Santos,SP,2023-08-14,Pessoa Física
+C0491,Eduarda Moraes,Pindamonhangaba,SP,2023-08-14,Pessoa Física
+C0014,Leonardo Souza,São José dos Campos,SP,2023-08-17,Pessoa Física
+C0109,Juliana Silva,Sorocaba,SP,2023-08-17,Pessoa Física
+C0486,Rafaela Cardoso,Taubaté,SP,2023-08-17,Pessoa Física
+C0350,Eduarda Ferreira,Jacareí,SP,2023-08-18,Pessoa Física
+C0115,Paula Fernandes,Pindamonhangaba,SP,2023-08-20,Pessoa Física
+C0091,Helena Andrade,São José dos Campos,SP,2023-08-22,Pessoa Física
+C0244,Caio Martins,Pindamonhangaba,SP,2023-08-26,Pessoa Física
+C0160,Caio Nascimento,Caçapava,SP,2023-08-27,Pessoa Física
+C0315,Bruno Almeida,Guaratinguetá,SP,2023-08-27,Pessoa Física
+C0026,Eduarda Souza,Guaratinguetá,SP,2023-08-29,Pessoa Física
+C0100,Gabriela Rocha,Santos,SP,2023-08-30,Pessoa Física
+C0159,Samuel Mendes,Campinas,SP,2023-08-31,Pessoa Física
+C0278,Gabriela Campos,Caçapava,SP,2023-09-01,Pessoa Física
+C0204,Leonardo Silva,Guaratinguetá,SP,2023-09-02,Pessoa Física
+C0121,Fernanda Araújo,Jacareí,SP,2023-09-05,Pessoa Física
+C0442,Juliana Costa,Taubaté,SP,2023-09-06,Pessoa Física
+C0267,Enzo Pereira,Taubaté,SP,2023-09-08,Pessoa Física
+C0450,Vinicius Almeida,Taubaté,SP,2023-09-12,Pessoa Física
+C0178,Igor Moraes,Guaratinguetá,SP,2023-09-14,Pessoa Física
+C0550,Tatiana Rocha,Caçapava,SP,2023-09-14,Pessoa Física
+C0056,Enzo Araújo,Santos,SP,2023-09-16,Pessoa Física
+C0181,Olivia Teixeira,Taubaté,SP,2023-09-25,Pessoa Física
+C0259,Mateus Carvalho,Santos,SP,2023-09-27,Pessoa Física
+C0430,Karina Nunes,Pindamonhangaba,SP,2023-09-27,Pessoa Jurídica
+C0556,Carla Pereira,Santos,SP,2023-09-29,Pessoa Física
+C0141,Caio Lima,Santos,SP,2023-10-02,Pessoa Física
+C0393,Olivia Ferreira,Santos,SP,2023-10-04,Pessoa Física
+C0253,Nicolas Moreira,Pindamonhangaba,SP,2023-10-05,Pessoa Física
+C0471,Débora Rocha,Pindamonhangaba,SP,2023-10-05,Pessoa Física
+C0468,Henrique Ribeiro,Campinas,SP,2023-10-07,Pessoa Física
+C0426,Lucas Barbosa,Pindamonhangaba,SP,2023-10-08,Pessoa Física
+C0521,Daniel Costa,Campinas,SP,2023-10-10,Pessoa Física
+C0650,Gustavo Costa,Guaratinguetá,SP,2023-10-12,Pessoa Física
+C0375,Daniel Dias,Pindamonhangaba,SP,2023-10-26,Pessoa Física
+C0613,Henrique Mendes,São José dos Campos,SP,2023-10-27,Pessoa Jurídica
+C0043,Felipe Campos,Jacareí,SP,2023-10-31,Pessoa Física
+C0333,Igor Moraes,Campinas,SP,2023-10-31,Pessoa Física
+C0174,João Dias,São Paulo,SP,2023-11-01,Pessoa Física
+C0625,Igor Gomes,São José dos Campos,SP,2023-11-02,Pessoa Física
+C0309,Helena Barbosa,São José dos Campos,SP,2023-11-04,Pessoa Física
+C0010,Ana Moraes,Santos,SP,2023-11-05,Pessoa Física
+C0385,Gustavo Gomes,Guaratinguetá,SP,2023-11-09,Pessoa Física
+C0079,Mariana Nascimento,Sorocaba,SP,2023-11-13,Pessoa Física
+C0632,Helena Freitas,Santos,SP,2023-11-15,Pessoa Física
+C0380,Mateus Souza,Guaratinguetá,SP,2023-11-16,Pessoa Física
+C0518,Samuel Campos,Campinas,SP,2023-11-16,Pessoa Física
+C0453,Leonardo Cardoso,Guaratinguetá,SP,2023-11-18,Pessoa Física
+C0399,Gabriela Costa,Caçapava,SP,2023-11-26,Pessoa Física
+C0167,Vinicius Vieira,Taubaté,SP,2023-11-29,Pessoa Jurídica
+C0597,Leonardo Nunes,Santos,SP,2023-12-02,Pessoa Física
+C0184,Vinicius Barbosa,Guaratinguetá,SP,2023-12-03,Pessoa Física
+C0042,Karina Ferreira,Sorocaba,SP,2023-12-05,Pessoa Física
+C0529,Tatiana Lima,São José dos Campos,SP,2023-12-07,Pessoa Física
+C0495,Eduarda Lopes,Campinas,SP,2023-12-09,Pessoa Física
+C0230,Vinicius Lima,Santos,SP,2023-12-14,Pessoa Física
+C0509,Lucas Fernandes,Campinas,SP,2023-12-14,Pessoa Física
+C0608,Paula Teixeira,Santos,SP,2023-12-17,Pessoa Jurídica
+C0112,Gabriela Lopes,Pindamonhangaba,SP,2023-12-18,Pessoa Física
+C0092,Enzo Vieira,Guaratinguetá,SP,2023-12-19,Pessoa Jurídica
+C0232,Fernanda Costa,Guaratinguetá,SP,2023-12-21,Pessoa Física
+C0593,Karina Moreira,Jacareí,SP,2023-12-23,Pessoa Física
+C0070,Eduarda Santos,São José dos Campos,SP,2023-12-24,Pessoa Física
+C0206,Bruno Santos,Pindamonhangaba,SP,2023-12-24,Pessoa Física
+C0154,Pedro Nascimento,Pindamonhangaba,SP,2023-12-27,Pessoa Física
+C0349,Caio Campos,Campinas,SP,2023-12-27,Pessoa Física
+C0441,Tatiana Teixeira,São José dos Campos,SP,2023-12-28,Pessoa Física
+C0180,Vinicius Mendes,Caçapava,SP,2024-01-01,Pessoa Física
+C0123,Juliana Araújo,Taubaté,SP,2024-01-04,Pessoa Física
+C0176,Enzo Mendes,Jacareí,SP,2024-01-04,Pessoa Física
+C0228,Paula Carvalho,Caçapava,SP,2024-01-05,Pessoa Jurídica
+C0110,João Rocha,Pindamonhangaba,SP,2024-01-10,Pessoa Física
+C0515,Daniel Nunes,Caçapava,SP,2024-01-13,Pessoa Física
+C0528,Lucas Andrade,Jacareí,SP,2024-01-13,Pessoa Física
+C0225,Pedro Lopes,Sorocaba,SP,2024-01-14,Pessoa Física
+C0268,Leonardo Souza,Caçapava,SP,2024-01-15,Pessoa Física
+C0570,Mateus Cardoso,Pindamonhangaba,SP,2024-01-16,Pessoa Física
+C0237,Mariana Freitas,São Paulo,SP,2024-01-18,Pessoa Física
+C0564,Samuel Andrade,Guaratinguetá,SP,2024-01-18,Pessoa Física
+C0569,Leonardo Moraes,São Paulo,SP,2024-01-19,Pessoa Jurídica
+C0618,Olivia Martins,Jacareí,SP,2024-01-19,Pessoa Física
+C0258,Mariana Lopes,São Paulo,SP,2024-01-21,Pessoa Física
+C0561,Carla Nunes,São José dos Campos,SP,2024-01-22,Pessoa Física
+C0089,Igor Silva,Jacareí,SP,2024-01-23,Pessoa Física
+C0125,Tatiana Silva,Pindamonhangaba,SP,2024-01-24,Pessoa Física
+C0418,Samuel Campos,Sorocaba,SP,2024-01-24,Pessoa Física
+C0369,Nicolas Barbosa,Campinas,SP,2024-01-25,Pessoa Física
+C0540,Mariana Martins,Pindamonhangaba,SP,2024-01-27,Pessoa Física
+C0145,Rafaela Rocha,Sorocaba,SP,2024-01-28,Pessoa Física
+C0111,Débora Ferreira,Guaratinguetá,SP,2024-01-31,Pessoa Física
+C0543,Vinicius Pereira,Pindamonhangaba,SP,2024-02-04,Pessoa Física
+C0286,Eduarda Cardoso,Guaratinguetá,SP,2024-02-05,Pessoa Física
+C0148,Bruno Araújo,Sorocaba,SP,2024-02-08,Pessoa Física
+C0293,Débora Nascimento,Taubaté,SP,2024-02-08,Pessoa Física
+C0191,Rafaela Barbosa,Santos,SP,2024-02-11,Pessoa Física
+C0422,Henrique Martins,São José dos Campos,SP,2024-02-13,Pessoa Física
+C0265,Felipe Cardoso,Caçapava,SP,2024-02-14,Pessoa Física
+C0240,Mariana Vieira,Caçapava,SP,2024-02-20,Pessoa Física
+C0615,Olivia Fernandes,Caçapava,SP,2024-02-20,Pessoa Física
+C0647,Mateus Costa,Caçapava,SP,2024-02-22,Pessoa Física
+C0022,Beatriz Freitas,Caçapava,SP,2024-02-25,Pessoa Física
+C0641,Pedro Mendes,Campinas,SP,2024-02-26,Pessoa Física
+C0243,Leonardo Teixeira,Sorocaba,SP,2024-02-27,Pessoa Física
+C0478,Karina Moreira,Sorocaba,SP,2024-02-27,Pessoa Física
+C0484,Bruno Martins,Pindamonhangaba,SP,2024-02-29,Pessoa Jurídica
+C0065,Eduarda Nascimento,São Paulo,SP,2024-03-02,Pessoa Jurídica
+C0126,Débora Andrade,São José dos Campos,SP,2024-03-02,Pessoa Física
+C0212,Felipe Ferreira,São José dos Campos,SP,2024-03-04,Pessoa Física
+C0413,Helena Monteiro,Guaratinguetá,SP,2024-03-05,Pessoa Física
+C0631,Helena Rocha,Guaratinguetá,SP,2024-03-05,Pessoa Física
+C0034,Leonardo Freitas,São Paulo,SP,2024-03-09,Pessoa Física
+C0474,Lucas Santos,São José dos Campos,SP,2024-03-09,Pessoa Física
+C0220,Rafaela Cardoso,Taubaté,SP,2024-03-11,Pessoa Física
+C0118,Helena Moraes,Taubaté,SP,2024-03-13,Pessoa Física
+C0361,Fernanda Teixeira,Caçapava,SP,2024-03-13,Pessoa Física
+C0489,Gabriela Nascimento,Taubaté,SP,2024-03-13,Pessoa Física
+C0275,Nicolas Monteiro,Guaratinguetá,SP,2024-03-18,Pessoa Física
+C0627,Felipe Nascimento,São Paulo,SP,2024-03-19,Pessoa Física
+C0272,Nicolas Monteiro,Taubaté,SP,2024-03-20,Pessoa Física
+C0347,Nicolas Andrade,Jacareí,SP,2024-03-23,Pessoa Física
+C0273,Fernanda Lima,São Paulo,SP,2024-03-24,Pessoa Física
+C0063,Gabriela Gomes,Taubaté,SP,2024-03-26,Pessoa Física
+C0256,Isabela Dias,Campinas,SP,2024-03-31,Pessoa Física
+C0158,Paula Araújo,Guaratinguetá,SP,2024-04-06,Pessoa Física
+C0182,Nicolas Santos,São José dos Campos,SP,2024-04-09,Pessoa Física
+C0325,Fernanda Pereira,Caçapava,SP,2024-04-10,Pessoa Física
+C0216,Igor Nunes,Campinas,SP,2024-04-11,Pessoa Física
+C0479,Mateus Lima,Sorocaba,SP,2024-04-13,Pessoa Física
+C0074,Nicolas Moreira,Caçapava,SP,2024-04-16,Pessoa Física
+C0446,Beatriz Martins,Pindamonhangaba,SP,2024-04-16,Pessoa Física
+C0459,Mariana Costa,Caçapava,SP,2024-04-25,Pessoa Física
+C0464,Karina Moreira,Sorocaba,SP,2024-04-27,Pessoa Física
+C0023,Helena Lopes,São José dos Campos,SP,2024-04-28,Pessoa Física
+C0222,Carla Monteiro,Pindamonhangaba,SP,2024-04-29,Pessoa Física
+C0574,João Freitas,Jacareí,SP,2024-05-03,Pessoa Física
+C0585,Lucas Rocha,Campinas,SP,2024-05-03,Pessoa Jurídica
+C0611,João Ferreira,Sorocaba,SP,2024-05-06,Pessoa Física
+C0612,Paula Lopes,Caçapava,SP,2024-05-09,Pessoa Jurídica
+C0284,Rafaela Ferreira,Guaratinguetá,SP,2024-05-12,Pessoa Física
+C0398,Felipe Moreira,Santos,SP,2024-05-13,Pessoa Jurídica
+C0037,Felipe Campos,Campinas,SP,2024-05-14,Pessoa Jurídica
+C0282,Juliana Monteiro,Sorocaba,SP,2024-05-18,Pessoa Física
+C0032,Enzo Moreira,Guaratinguetá,SP,2024-05-19,Pessoa Física
+C0503,Isabela Nascimento,Jacareí,SP,2024-05-22,Pessoa Física
+C0335,Daniel Teixeira,Taubaté,SP,2024-05-23,Pessoa Física
+C0372,Leonardo Fernandes,Campinas,SP,2024-05-24,Pessoa Física
+C0461,Lucas Monteiro,São José dos Campos,SP,2024-05-25,Pessoa Física
+C0271,Leonardo Andrade,Santos,SP,2024-05-26,Pessoa Física
+C0443,Helena Lima,Taubaté,SP,2024-05-28,Pessoa Física
+C0312,Beatriz Mendes,São José dos Campos,SP,2024-05-29,Pessoa Jurídica
+C0477,Helena Andrade,Caçapava,SP,2024-05-30,Pessoa Física
+C0197,Caio Cardoso,Sorocaba,SP,2024-05-31,Pessoa Física
+C0251,Lucas Ribeiro,São Paulo,SP,2024-05-31,Pessoa Física
+C0499,Bruno Machado,Jacareí,SP,2024-06-02,Pessoa Física
+C0096,Enzo Oliveira,Santos,SP,2024-06-04,Pessoa Física
+C0415,Henrique Vieira,Jacareí,SP,2024-06-04,Pessoa Física
+C0185,Leonardo Freitas,Guaratinguetá,SP,2024-06-06,Pessoa Física
+C0336,Leonardo Cardoso,São José dos Campos,SP,2024-06-06,Pessoa Física
+C0424,Gustavo Vieira,Pindamonhangaba,SP,2024-06-06,Pessoa Física
+C0040,Fernanda Campos,São Paulo,SP,2024-06-07,Pessoa Física
+C0294,Lucas Campos,Taubaté,SP,2024-06-13,Pessoa Física
+C0406,Beatriz Andrade,Taubaté,SP,2024-06-15,Pessoa Física
+C0078,Enzo Rocha,Caçapava,SP,2024-06-17,Pessoa Jurídica
+C0175,Gustavo Souza,Sorocaba,SP,2024-06-17,Pessoa Física
+C0586,Felipe Pereira,Jacareí,SP,2024-06-19,Pessoa Física
+C0075,Leonardo Nunes,Sorocaba,SP,2024-06-20,Pessoa Física
+C0421,Pedro Vieira,Caçapava,SP,2024-06-23,Pessoa Física
+C0512,Paula Costa,Sorocaba,SP,2024-06-30,Pessoa Física
+C0061,Henrique Gomes,Caçapava,SP,2024-07-06,Pessoa Física
+C0124,Fernanda Costa,Guaratinguetá,SP,2024-07-06,Pessoa Física
+C0591,Nicolas Ribeiro,Pindamonhangaba,SP,2024-07-11,Pessoa Física
+C0302,Pedro Barbosa,Taubaté,SP,2024-07-18,Pessoa Física
+C0504,Samuel Nascimento,Santos,SP,2024-07-26,Pessoa Física
+C0173,Isabela Ferreira,Santos,SP,2024-07-29,Pessoa Física
+C0093,Carla Machado,São José dos Campos,SP,2024-07-30,Pessoa Física
+C0572,Helena Cardoso,Pindamonhangaba,SP,2024-07-30,Pessoa Jurídica
+C0645,Tatiana Nunes,São José dos Campos,SP,2024-08-05,Pessoa Física
+C0219,Karina Souza,São José dos Campos,SP,2024-08-06,Pessoa Física
+C0270,Ana Cardoso,Pindamonhangaba,SP,2024-08-14,Pessoa Física
+C0226,Ana Rocha,São Paulo,SP,2024-08-15,Pessoa Física
+C0429,Mateus Campos,Taubaté,SP,2024-08-16,Pessoa Física
+C0547,Mariana Santos,Campinas,SP,2024-08-17,Pessoa Física
+C0560,João Dias,Guaratinguetá,SP,2024-08-19,Pessoa Física
+C0363,Carla Mendes,Santos,SP,2024-08-20,Pessoa Física
+C0605,Mateus Nunes,Pindamonhangaba,SP,2024-08-21,Pessoa Física
+C0522,Carla Martins,Taubaté,SP,2024-08-22,Pessoa Física
+C0404,Samuel Nunes,São José dos Campos,SP,2024-08-31,Pessoa Física
+C0102,Mateus Carvalho,Caçapava,SP,2024-09-04,Pessoa Física
+C0300,Igor Ferreira,Taubaté,SP,2024-09-11,Pessoa Física
+C0626,Eduarda Monteiro,Pindamonhangaba,SP,2024-09-11,Pessoa Física
+C0147,Tatiana Dias,São Paulo,SP,2024-09-18,Pessoa Física
+C0423,Lucas Lima,São José dos Campos,SP,2024-09-20,Pessoa Física
+C0373,Gabriela Dias,Campinas,SP,2024-09-29,Pessoa Física
+C0383,Karina Lopes,Pindamonhangaba,SP,2024-09-30,Pessoa Física
+C0217,Eduarda Silva,Taubaté,SP,2024-10-02,Pessoa Física
+C0473,Paula Campos,Sorocaba,SP,2024-10-02,Pessoa Física
+C0155,Rafaela Costa,São Paulo,SP,2024-10-06,Pessoa Física
+C0114,Vinicius Dias,Guaratinguetá,SP,2024-10-15,Pessoa Física
+C0016,Leonardo Silva,Jacareí,SP,2024-10-16,Pessoa Física
+C0077,Mateus Barbosa,Santos,SP,2024-10-16,Pessoa Física
+C0508,Leonardo Souza,Sorocaba,SP,2024-10-16,Pessoa Física
+C0417,Igor Martins,São Paulo,SP,2024-10-17,Pessoa Física
+C0494,Lucas Ribeiro,Guaratinguetá,SP,2024-10-19,Pessoa Jurídica
+C0306,Bruno Ferreira,São Paulo,SP,2024-10-20,Pessoa Física
+C0624,Paula Nascimento,Jacareí,SP,2024-10-24,Pessoa Física
+C0001,Juliana Mendes,Pindamonhangaba,SP,2024-11-01,Pessoa Física
+C0263,Eduarda Oliveira,Sorocaba,SP,2024-11-01,Pessoa Física
+C0314,Pedro Rocha,Santos,SP,2024-11-01,Pessoa Física
+C0209,Felipe Teixeira,Guaratinguetá,SP,2024-11-02,Pessoa Física
+C0249,Gabriela Nascimento,Caçapava,SP,2024-11-02,Pessoa Física
+C0387,Fernanda Pereira,Campinas,SP,2024-11-07,Pessoa Física
+C0437,Fernanda Nascimento,Sorocaba,SP,2024-11-07,Pessoa Física
+C0186,Nicolas Moreira,Caçapava,SP,2024-11-08,Pessoa Física
+C0064,Felipe Campos,Jacareí,SP,2024-11-15,Pessoa Física
+C0095,Paula Fernandes,Caçapava,SP,2024-11-15,Pessoa Física
+C0153,Enzo Monteiro,Santos,SP,2024-11-15,Pessoa Jurídica
+C0354,Ana Rocha,Taubaté,SP,2024-11-15,Pessoa Física
+C0392,Daniel Moreira,Campinas,SP,2024-11-16,Pessoa Física
+C0351,Igor Costa,São José dos Campos,SP,2024-11-17,Pessoa Física
+C0172,Paula Nascimento,Sorocaba,SP,2024-11-18,Pessoa Física
+C0193,Felipe Ribeiro,Caçapava,SP,2024-11-19,Pessoa Física
+C0642,Karina Moraes,São José dos Campos,SP,2024-11-23,Pessoa Física
+C0332,Gabriela Oliveira,Taubaté,SP,2024-11-30,Pessoa Física
+C0345,Isabela Barbosa,Sorocaba,SP,2024-11-30,Pessoa Física
+C0620,Lucas Vieira,Pindamonhangaba,SP,2024-11-30,Pessoa Física
+C0343,Henrique Cardoso,Caçapava,SP,2024-12-02,Pessoa Física
+C0171,Olivia Lima,Sorocaba,SP,2024-12-04,Pessoa Física
+C0317,Nicolas Moreira,São José dos Campos,SP,2024-12-05,Pessoa Física
+C0326,Ana Mendes,Jacareí,SP,2024-12-09,Pessoa Física
+C0311,Juliana Barbosa,Caçapava,SP,2024-12-10,Pessoa Física
+C0465,Caio Teixeira,Jacareí,SP,2024-12-10,Pessoa Física
+C0068,Vinicius Mendes,São Paulo,SP,2024-12-12,Pessoa Física
+C0201,Henrique Dias,Sorocaba,SP,2024-12-12,Pessoa Física
+C0029,Gustavo Moreira,Santos,SP,2024-12-18,Pessoa Física
+C0483,João Fernandes,São José dos Campos,SP,2024-12-20,Pessoa Jurídica
+C0320,Beatriz Araújo,Taubaté,SP,2024-12-23,Pessoa Física
+C0388,Bruno Ferreira,Jacareí,SP,2024-12-26,Pessoa Física
+C0463,Isabela Moreira,Jacareí,SP,2024-12-28,Pessoa Física
+C0381,Paula Cardoso,Jacareí,SP,2025-01-01,Pessoa Física
+C0444,Lucas Gomes,Sorocaba,SP,2025-01-02,Pessoa Física
+C0456,Ana Campos,Guaratinguetá,SP,2025-01-03,Pessoa Física
+C0136,Helena Freitas,Guaratinguetá,SP,2025-01-06,Pessoa Física
+C0054,Daniel Silva,Campinas,SP,2025-01-10,Pessoa Física
+C0516,Olivia Carvalho,Campinas,SP,2025-01-15,Pessoa Física
+C0438,Eduarda Dias,Guaratinguetá,SP,2025-01-18,Pessoa Física
+C0573,Rafaela Cardoso,São Paulo,SP,2025-01-18,Pessoa Física
+C0031,Vinicius Moreira,Pindamonhangaba,SP,2025-01-21,Pessoa Física
+C0480,Isabela Carvalho,Caçapava,SP,2025-01-22,Pessoa Física
+C0044,Vinicius Dias,Guaratinguetá,SP,2025-01-23,Pessoa Física
+C0587,Samuel Campos,Caçapava,SP,2025-01-25,Pessoa Física
+C0536,Leonardo Gomes,São José dos Campos,SP,2025-01-26,Pessoa Física
+C0266,Tatiana Moraes,Taubaté,SP,2025-01-28,Pessoa Física
+C0323,Igor Campos,Sorocaba,SP,2025-02-01,Pessoa Física
+C0287,Beatriz Vieira,Jacareí,SP,2025-02-03,Pessoa Física
+C0104,Pedro Costa,São José dos Campos,SP,2025-02-09,Pessoa Física
+C0242,Gabriela Andrade,Sorocaba,SP,2025-02-09,Pessoa Física
+C0131,Enzo Freitas,Santos,SP,2025-02-11,Pessoa Física
+C0628,Nicolas Moreira,Sorocaba,SP,2025-02-13,Pessoa Física
+C0607,Pedro Moraes,Caçapava,SP,2025-02-16,Pessoa Física
+C0215,Ana Fernandes,Campinas,SP,2025-02-18,Pessoa Física
+C0432,Carla Cardoso,Santos,SP,2025-02-20,Pessoa Física
+C0231,Gustavo Lopes,Taubaté,SP,2025-02-24,Pessoa Física
+C0454,Bruno Teixeira,Sorocaba,SP,2025-02-25,Pessoa Física
+C0643,João Silva,Campinas,SP,2025-02-26,Pessoa Física
+C0045,Bruno Souza,Pindamonhangaba,SP,2025-03-03,Pessoa Física
+C0097,Paula Moraes,Pindamonhangaba,SP,2025-03-12,Pessoa Física
+C0213,Mateus Lopes,Caçapava,SP,2025-03-17,Pessoa Física
+C0431,Caio Rocha,Caçapava,SP,2025-03-17,Pessoa Física
+C0262,Mateus Oliveira,Campinas,SP,2025-03-27,Pessoa Física
+C0007,Paula Costa,Campinas,SP,2025-03-30,Pessoa Física
+C0137,Enzo Barbosa,Jacareí,SP,2025-03-30,Pessoa Física
+C0552,Pedro Nascimento,São José dos Campos,SP,2025-03-30,Pessoa Física
+C0199,Karina Ribeiro,Jacareí,SP,2025-03-31,Pessoa Física
+C0296,João Mendes,São José dos Campos,SP,2025-04-01,Pessoa Física
+C0524,Caio Santos,Taubaté,SP,2025-04-05,Pessoa Física
+C0580,Caio Araújo,Taubaté,SP,2025-04-08,Pessoa Física
+C0548,João Lopes,Taubaté,SP,2025-04-12,Pessoa Física
+C0082,Nicolas Costa,Campinas,SP,2025-04-16,Pessoa Física
+C0339,Nicolas Dias,São Paulo,SP,2025-04-18,Pessoa Física
+C0545,Rafaela Cardoso,Santos,SP,2025-04-18,Pessoa Jurídica
+C0566,Igor Barbosa,Jacareí,SP,2025-04-18,Pessoa Física
+C0638,João Souza,Pindamonhangaba,SP,2025-04-18,Pessoa Física
+C0105,João Moreira,Guaratinguetá,SP,2025-04-20,Pessoa Física
+C0644,Rafaela Barbosa,Jacareí,SP,2025-04-20,Pessoa Física
+C0648,Igor Carvalho,Guaratinguetá,SP,2025-04-22,Pessoa Física
+C0260,Carla Carvalho,Santos,SP,2025-04-30,Pessoa Física
+C0119,Caio Almeida,São José dos Campos,SP,2025-05-01,Pessoa Física
+C0562,João Almeida,Guaratinguetá,SP,2025-05-04,Pessoa Física
+C0165,Henrique Ferreira,Campinas,SP,2025-05-06,Pessoa Física
+C0407,Vinicius Moreira,Campinas,SP,2025-05-07,Pessoa Física
+C0603,Samuel Araújo,Jacareí,SP,2025-05-08,Pessoa Física
+C0113,Débora Moraes,Jacareí,SP,2025-05-09,Pessoa Física
+C0308,Samuel Dias,Guaratinguetá,SP,2025-05-11,Pessoa Física
+C0005,Ana Araújo,Sorocaba,SP,2025-05-20,Pessoa Física
+C0391,Mateus Souza,Santos,SP,2025-05-20,Pessoa Física
+C0469,Mariana Monteiro,Pindamonhangaba,SP,2025-05-22,Pessoa Física
+C0233,Rafaela Teixeira,Caçapava,SP,2025-05-23,Pessoa Física
+C0161,Isabela Fernandes,Jacareí,SP,2025-05-24,Pessoa Física
+C0507,Leonardo Andrade,Guaratinguetá,SP,2025-05-24,Pessoa Física
+C0371,Karina Vieira,São Paulo,SP,2025-05-26,Pessoa Física
+C0614,Débora Nunes,Caçapava,SP,2025-05-27,Pessoa Física
+C0205,Rafaela Moreira,São José dos Campos,SP,2025-05-30,Pessoa Física
+C0538,Karina Rocha,Caçapava,SP,2025-06-01,Pessoa Física
+C0006,Gustavo Nunes,Taubaté,SP,2025-06-04,Pessoa Física
+C0448,Bruno Costa,São José dos Campos,SP,2025-06-06,Pessoa Física
+C0108,Bruno Pereira,Jacareí,SP,2025-06-07,Pessoa Física
+C0189,Bruno Rocha,Campinas,SP,2025-06-08,Pessoa Física
+C0084,Gustavo Dias,Sorocaba,SP,2025-06-09,Pessoa Física
+C0576,Bruno Monteiro,São José dos Campos,SP,2025-06-13,Pessoa Física
+C0460,João Lopes,Sorocaba,SP,2025-06-17,Pessoa Física
+C0359,Beatriz Nunes,Sorocaba,SP,2025-06-18,Pessoa Física
+C0134,Pedro Dias,São José dos Campos,SP,2025-06-19,Pessoa Física
+C0163,Olivia Gomes,Caçapava,SP,2025-06-19,Pessoa Física
+C0598,Carla Oliveira,Pindamonhangaba,SP,2025-06-19,Pessoa Física
+C0497,Leonardo Pereira,Guaratinguetá,SP,2025-06-21,Pessoa Física
+C0144,Mariana Costa,Taubaté,SP,2025-06-23,Pessoa Física
+C0382,Mariana Souza,São José dos Campos,SP,2025-06-24,Pessoa Física
+C0353,Felipe Nascimento,Campinas,SP,2025-06-26,Pessoa Física
+C0506,Gabriela Moraes,Pindamonhangaba,SP,2025-06-26,Pessoa Física
+C0636,João Carvalho,Pindamonhangaba,SP,2025-06-29,Pessoa Física
+C0409,Carla Machado,Guaratinguetá,SP,2025-07-01,Pessoa Física
+C0086,Helena Rocha,São Paulo,SP,2025-07-03,Pessoa Física
+C0513,Enzo Ferreira,São José dos Campos,SP,2025-07-04,Pessoa Física
+C0596,Lucas Ferreira,Sorocaba,SP,2025-07-06,Pessoa Física
+C0532,Mateus Moreira,Pindamonhangaba,SP,2025-07-07,Pessoa Física
+C0210,Nicolas Machado,Campinas,SP,2025-07-09,Pessoa Física
+C0526,Paula Martins,Taubaté,SP,2025-07-10,Pessoa Física
+C0143,João Costa,Jacareí,SP,2025-07-12,Pessoa Física
+C0073,Tatiana Pereira,Pindamonhangaba,SP,2025-07-15,Pessoa Física
+C0599,Carla Lopes,São Paulo,SP,2025-07-18,Pessoa Física
+C0649,Bruno Moreira,Jacareí,SP,2025-07-18,Pessoa Física
+C0289,Vinicius Cardoso,Caçapava,SP,2025-07-22,Pessoa Física
+C0132,Caio Nunes,Caçapava,SP,2025-07-25,Pessoa Física
+C0238,Igor Vieira,Santos,SP,2025-07-28,Pessoa Jurídica
+C0341,Pedro Rocha,Taubaté,SP,2025-08-07,Pessoa Física
+C0633,Caio Nascimento,Sorocaba,SP,2025-08-08,Pessoa Física
+C0277,Isabela Vieira,Santos,SP,2025-08-09,Pessoa Física
+C0379,João Fernandes,Santos,SP,2025-08-12,Pessoa Física
+C0510,Nicolas Moraes,Caçapava,SP,2025-08-12,Pessoa Física
+C0004,Felipe Moraes,Guaratinguetá,SP,2025-08-14,Pessoa Física
+C0280,Karina Lima,Sorocaba,SP,2025-08-22,Pessoa Física
+C0164,Olivia Teixeira,Taubaté,SP,2025-08-23,Pessoa Física
+C0541,Gustavo Andrade,São Paulo,SP,2025-08-23,Pessoa Física
+C0059,Igor Santos,Campinas,SP,2025-08-24,Pessoa Física
+C0028,João Costa,São José dos Campos,SP,2025-08-25,Pessoa Física
+C0053,Leonardo Costa,Santos,SP,2025-08-25,Pessoa Jurídica
+C0058,Caio Mendes,São José dos Campos,SP,2025-08-25,Pessoa Física
+C0534,Eduarda Pereira,São Paulo,SP,2025-08-27,Pessoa Física
+C0292,Vinicius Cardoso,Jacareí,SP,2025-08-28,Pessoa Jurídica
+C0525,Karina Pereira,Guaratinguetá,SP,2025-08-28,Pessoa Física
+C0527,Eduarda Vieira,Guaratinguetá,SP,2025-09-01,Pessoa Física
+C0329,Beatriz Silva,Campinas,SP,2025-09-04,Pessoa Física
+C0041,Juliana Ribeiro,São Paulo,SP,2025-09-07,Pessoa Física
+C0419,Daniel Martins,Guaratinguetá,SP,2025-09-07,Pessoa Física
+C0127,Ana Machado,São José dos Campos,SP,2025-09-09,Pessoa Física
+C0475,Lucas Pereira,Sorocaba,SP,2025-09-11,Pessoa Física
+C0410,Beatriz Freitas,Santos,SP,2025-09-12,Pessoa Física
+C0428,Juliana Lopes,Taubaté,SP,2025-09-12,Pessoa Física
+C0344,Enzo Oliveira,São Paulo,SP,2025-09-15,Pessoa Física
+C0122,Gustavo Freitas,Taubaté,SP,2025-09-16,Pessoa Física
+C0616,Gustavo Rocha,Campinas,SP,2025-09-19,Pessoa Física
+C0637,Carla Freitas,Sorocaba,SP,2025-09-21,Pessoa Física
+C0050,Igor Freitas,Pindamonhangaba,SP,2025-09-24,Pessoa Física
+C0445,Paula Vieira,São Paulo,SP,2025-10-04,Pessoa Física
+C0520,Tatiana Barbosa,Guaratinguetá,SP,2025-10-04,Pessoa Física
+C0013,Caio Fernandes,Santos,SP,2025-10-06,Pessoa Física
+C0198,Fernanda Costa,São Paulo,SP,2025-10-06,Pessoa Física
+C0462,Olivia Lima,Guaratinguetá,SP,2025-10-06,Pessoa Física
+C0579,Mateus Gomes,Jacareí,SP,2025-10-09,Pessoa Física
+C0370,Enzo Moreira,Guaratinguetá,SP,2025-10-12,Pessoa Física
+C0008,Eduarda Souza,Santos,SP,2025-10-13,Pessoa Física
+C0250,Helena Barbosa,Guaratinguetá,SP,2025-10-13,Pessoa Física
+C0285,Vinicius Martins,Campinas,SP,2025-10-13,Pessoa Física
+C0546,Tatiana Gomes,São Paulo,SP,2025-10-13,Pessoa Física
+C0313,Igor Barbosa,São Paulo,SP,2025-10-15,Pessoa Física
+C0364,Tatiana Campos,Campinas,SP,2025-10-18,Pessoa Física
+C0247,Olivia Freitas,Santos,SP,2025-10-19,Pessoa Física
+C0211,Vinicius Pereira,Guaratinguetá,SP,2025-10-20,Pessoa Física
+C0203,Ana Araújo,São José dos Campos,SP,2025-10-21,Pessoa Física
+C0386,Bruno Mendes,Pindamonhangaba,SP,2025-10-22,Pessoa Física
+C0107,Carla Araújo,São Paulo,SP,2025-10-23,Pessoa Física
+C0452,Lucas Moreira,Taubaté,SP,2025-10-23,Pessoa Física
+C0482,Karina Ferreira,Campinas,SP,2025-10-28,Pessoa Física
+C0623,Olivia Santos,Caçapava,SP,2025-11-02,Pessoa Física
+C0139,Bruno Vieira,Jacareí,SP,2025-11-08,Pessoa Física
+C0501,Tatiana Pereira,Guaratinguetá,SP,2025-11-10,Pessoa Física
+C0575,Tatiana Rocha,Pindamonhangaba,SP,2025-11-11,Pessoa Física
+C0490,Débora Andrade,Jacareí,SP,2025-11-13,Pessoa Física
+C0602,Eduarda Freitas,Santos,SP,2025-11-13,Pessoa Jurídica
+C0152,Olivia Carvalho,Santos,SP,2025-11-15,Pessoa Física
+C0630,Juliana Vieira,São Paulo,SP,2025-11-21,Pessoa Física
+C0600,Isabela Costa,Taubaté,SP,2025-11-25,Pessoa Física
+C0049,Igor Rocha,Santos,SP,2025-11-27,Pessoa Física
+C0030,Vinicius Campos,Campinas,SP,2025-11-28,Pessoa Física
+C0567,Rafaela Monteiro,Campinas,SP,2025-12-02,Pessoa Física
+C0071,Gabriela Carvalho,Jacareí,SP,2025-12-04,Pessoa Física
+C0224,Eduarda Carvalho,Caçapava,SP,2025-12-05,Pessoa Física
+C0542,Gustavo Campos,Caçapava,SP,2025-12-06,Pessoa Física
+C0083,Débora Barbosa,Guaratinguetá,SP,2025-12-07,Pessoa Física
+C0331,Eduarda Santos,Caçapava,SP,2025-12-11,Pessoa Jurídica
+C0594,Lucas Martins,Guaratinguetá,SP,2025-12-16,Pessoa Jurídica
+C0130,Samuel Almeida,Pindamonhangaba,SP,2025-12-22,Pessoa Física
+C0435,João Cardoso,Taubaté,SP,2025-12-24,Pessoa Física
+C0472,Ana Costa,Guaratinguetá,SP,2025-12-24,Pessoa Jurídica
+C0505,Caio Andrade,Taubaté,SP,2025-12-25,Pessoa Física
+C0558,Gabriela Moreira,Santos,SP,2025-12-27,Pessoa Física
+C0340,Débora Costa,São Paulo,SP,2025-12-29,Pessoa Física
+C0076,Isabela Costa,Pindamonhangaba,SP,2025-12-30,Pessoa Física
+C0310,Tatiana Lima,Caçapava,SP,2025-12-31,Pessoa Física
+C0334,Tatiana Carvalho,Guaratinguetá,SP,2026-01-05,Pessoa Jurídica
+C0072,Gabriela Nascimento,Jacareí,SP,2026-01-08,Pessoa Física
+C0330,Henrique Ribeiro,Taubaté,SP,2026-01-09,Pessoa Física
+C0321,Lucas Araújo,São Paulo,SP,2026-01-10,Pessoa Jurídica
+C0177,Helena Fernandes,Guaratinguetá,SP,2026-01-11,Pessoa Física
+C0492,Helena Nascimento,Campinas,SP,2026-01-11,Pessoa Física
+C0544,Leonardo Pereira,Jacareí,SP,2026-01-11,Pessoa Jurídica
+C0046,Karina Oliveira,Caçapava,SP,2026-01-14,Pessoa Física
+C0283,Pedro Martins,Pindamonhangaba,SP,2026-01-14,Pessoa Física
+C0194,Gustavo Carvalho,Caçapava,SP,2026-01-18,Pessoa Física
+C0439,Leonardo Lima,Campinas,SP,2026-01-19,Pessoa Física
+C0166,Ana Moraes,Pindamonhangaba,SP,2026-01-20,Pessoa Física
+C0069,Carla Cardoso,Santos,SP,2026-01-21,Pessoa Física
+C0015,Nicolas Monteiro,Campinas,SP,2026-01-22,Pessoa Física
+C0133,Beatriz Silva,Guaratinguetá,SP,2026-01-22,Pessoa Física
+C0027,Tatiana Andrade,Santos,SP,2026-01-24,Pessoa Física
+C0170,Rafaela Araújo,Pindamonhangaba,SP,2026-01-28,Pessoa Física
+C0223,Pedro Gomes,Guaratinguetá,SP,2026-01-29,Pessoa Física
+C0279,Eduarda Moraes,Caçapava,SP,2026-01-30,Pessoa Física
+C0549,Fernanda Almeida,Pindamonhangaba,SP,2026-02-01,Pessoa Física
+C0316,Nicolas Teixeira,Campinas,SP,2026-02-04,Pessoa Física
+C0578,Beatriz Araújo,São José dos Campos,SP,2026-02-05,Pessoa Física
+C0622,Vinicius Carvalho,Campinas,SP,2026-02-09,Pessoa Física
+C0519,Gustavo Mendes,São José dos Campos,SP,2026-02-10,Pessoa Física
+C0533,Vinicius Ribeiro,São José dos Campos,SP,2026-02-10,Pessoa Física
+C0298,Lucas Campos,Caçapava,SP,2026-02-11,Pessoa Física
+C0094,Fernanda Oliveira,Sorocaba,SP,2026-02-12,Pessoa Física
+C0451,Mariana Moreira,Guaratinguetá,SP,2026-02-13,Pessoa Física
+C0129,Débora Moraes,Taubaté,SP,2026-02-14,Pessoa Física
+C0269,Caio Campos,Campinas,SP,2026-02-17,Pessoa Física
+C0218,Vinicius Andrade,Santos,SP,2026-02-19,Pessoa Física
+C0117,Igor Ribeiro,Pindamonhangaba,SP,2026-02-22,Pessoa Física
+C0589,Juliana Cardoso,Santos,SP,2026-02-22,Pessoa Física
+C0080,Daniel Gomes,Taubaté,SP,2026-02-26,Pessoa Física
+C0356,Bruno Cardoso,Taubaté,SP,2026-03-04,Pessoa Física
+C0346,Lucas Mendes,Pindamonhangaba,SP,2026-03-05,Pessoa Física
+C0307,Pedro Moreira,São Paulo,SP,2026-03-07,Pessoa Física
+C0241,Caio Nunes,Sorocaba,SP,2026-03-08,Pessoa Física
+C0264,Henrique Dias,Campinas,SP,2026-03-09,Pessoa Jurídica
+C0098,Daniel Dias,Jacareí,SP,2026-03-13,Pessoa Física
+C0582,Ana Ribeiro,São José dos Campos,SP,2026-03-15,Pessoa Física
+C0609,Juliana Araújo,Guaratinguetá,SP,2026-03-15,Pessoa Física
+C0301,Felipe Barbosa,Sorocaba,SP,2026-03-17,Pessoa Jurídica
+C0352,Fernanda Santos,Guaratinguetá,SP,2026-03-21,Pessoa Física
+C0245,Vinicius Oliveira,São José dos Campos,SP,2026-03-26,Pessoa Física
+C0090,Caio Silva,Jacareí,SP,2026-03-28,Pessoa Jurídica
+C0327,Eduarda Lopes,Taubaté,SP,2026-03-28,Pessoa Física
+C0400,Isabela Vieira,Taubaté,SP,2026-03-31,Pessoa Física
+C0018,Tatiana Andrade,Caçapava,SP,2026-04-02,Pessoa Física
+C0248,Carla Almeida,Taubaté,SP,2026-04-03,Pessoa Física
+C0239,Fernanda Vieira,Guaratinguetá,SP,2026-04-05,Pessoa Física
+C0537,Henrique Ribeiro,São Paulo,SP,2026-04-06,Pessoa Física
+C0514,Mateus Machado,São José dos Campos,SP,2026-04-07,Pessoa Física
+C0274,Helena Lopes,São Paulo,SP,2026-04-11,Pessoa Física
+C0328,Caio Gomes,Pindamonhangaba,SP,2026-04-11,Pessoa Física
+C0036,Lucas Costa,Jacareí,SP,2026-04-12,Pessoa Física
+C0557,Karina Oliveira,Campinas,SP,2026-04-16,Pessoa Jurídica
+C0389,Helena Costa,São José dos Campos,SP,2026-04-22,Pessoa Física
+C0255,Felipe Lima,Guaratinguetá,SP,2026-04-24,Pessoa Jurídica
+C0055,Enzo Nascimento,Campinas,SP,2026-04-26,Pessoa Física
+C0402,Débora Gomes,Pindamonhangaba,SP,2026-04-27,Pessoa Jurídica
+C0367,Bruno Oliveira,Sorocaba,SP,2026-04-28,Pessoa Física
+C0156,Enzo Oliveira,Santos,SP,2026-04-29,Pessoa Física
+C0530,Tatiana Almeida,Guaratinguetá,SP,2026-04-29,Pessoa Física
+C0551,Juliana Machado,Jacareí,SP,2026-04-29,Pessoa Física
+C0169,Lucas Costa,Jacareí,SP,2026-05-01,Pessoa Física
+C0535,Igor Nunes,Pindamonhangaba,SP,2026-05-01,Pessoa Física
+C0120,Beatriz Rocha,Pindamonhangaba,SP,2026-05-02,Pessoa Física
+C0146,Tatiana Souza,Campinas,SP,2026-05-02,Pessoa Física
+C0067,Bruno Vieira,São José dos Campos,SP,2026-05-03,Pessoa Física
+C0523,Ana Souza,São Paulo,SP,2026-05-03,Pessoa Física
+C0338,Juliana Nascimento,Santos,SP,2026-05-05,Pessoa Física
+C0470,Lucas Cardoso,Pindamonhangaba,SP,2026-05-07,Pessoa Física
+C0116,Isabela Nascimento,São José dos Campos,SP,2026-05-08,Pessoa Física
+C0408,Bruno Lima,Santos,SP,2026-05-10,Pessoa Física
+C0227,Eduarda Gomes,Santos,SP,2026-05-12,Pessoa Física
+C0322,Débora Oliveira,Sorocaba,SP,2026-05-13,Pessoa Física
+C0378,Caio Andrade,Taubaté,SP,2026-05-13,Pessoa Física
+C0348,Eduarda Machado,São José dos Campos,SP,2026-05-15,Pessoa Física
+C0390,João Ribeiro,Guaratinguetá,SP,2026-05-18,Pessoa Física
+C0401,Fernanda Lopes,Caçapava,SP,2026-05-18,Pessoa Física
+C0355,Beatriz Lopes,Pindamonhangaba,SP,2026-05-24,Pessoa Física
+C0376,Beatriz Oliveira,Sorocaba,SP,2026-05-26,Pessoa Física
+C0493,Isabela Nunes,São Paulo,SP,2026-05-26,Pessoa Física
+C0179,Caio Pereira,São José dos Campos,SP,2026-05-28,Pessoa Física
+C0384,João Santos,São Paulo,SP,2026-05-28,Pessoa Física
+C0635,Igor Barbosa,São José dos Campos,SP,2026-05-29,Pessoa Física
+C0498,Vinicius Lopes,Guaratinguetá,SP,2026-05-31,Pessoa Física
+C0610,Eduarda Campos,Sorocaba,SP,2026-06-03,Pessoa Física
+C0288,Fernanda Carvalho,Santos,SP,2026-06-06,Pessoa Física
+C0021,Bruno Monteiro,Guaratinguetá,SP,2026-06-08,Pessoa Física
+C0202,Lucas Monteiro,Caçapava,SP,2026-06-10,Pessoa Física
+C0416,Ana Campos,São José dos Campos,SP,2026-06-12,Pessoa Física
+C0358,Isabela Gomes,Jacareí,SP,2026-06-15,Pessoa Jurídica
+C0411,Caio Pereira,Sorocaba,SP,2026-06-15,Pessoa Física
+C0485,Débora Vieira,Guaratinguetá,SP,2026-06-15,Pessoa Física
+C0106,Juliana Campos,Campinas,SP,2026-06-20,Pessoa Física
+C0433,Leonardo Fernandes,Taubaté,SP,2026-06-20,Pessoa Física
+C0447,Beatriz Cardoso,Caçapava,SP,2026-06-26,Pessoa Física
+C0565,Nicolas Costa,Guaratinguetá,SP,2026-07-01,Pessoa Física
+C0488,Carla Dias,São José dos Campos,SP,2026-07-02,Pessoa Física
+C0025,Pedro Santos,Guaratinguetá,SP,2026-07-04,Pessoa Física
+C0214,Helena Rocha,Santos,SP,2026-07-04,Pessoa Física
+C0135,Mateus Fernandes,Guaratinguetá,SP,2026-07-05,Pessoa Física
+C0412,Mateus Vieira,São José dos Campos,SP,2026-07-06,Pessoa Física
+C0496,Leonardo Fernandes,Jacareí,SP,2026-07-07,Pessoa Física
+C0318,Lucas Ferreira,Santos,SP,2026-07-09,Pessoa Física
+C0342,Helena Costa,Taubaté,SP,2026-07-09,Pessoa Física
+C0405,Eduarda Moraes,Jacareí,SP,2026-07-13,Pessoa Jurídica
+C0568,Fernanda Oliveira,Guaratinguetá,SP,2026-07-15,Pessoa Física
+C0048,Caio Dias,Guaratinguetá,SP,2026-07-19,Pessoa Física
+C0062,Ana Teixeira,Jacareí,SP,2026-07-20,Pessoa Física
+C0162,Igor Silva,Sorocaba,SP,2026-07-22,Pessoa Física
+C0257,Olivia Barbosa,Santos,SP,2026-07-23,Pessoa Física
+C0103,Caio Freitas,Taubaté,SP,2026-07-24,Pessoa Física
+C0427,Débora Costa,São José dos Campos,SP,2026-07-24,Pessoa Jurídica
+C0207,Enzo Santos,Campinas,SP,2026-07-26,Pessoa Jurídica
+C0592,Eduarda Almeida,Taubaté,SP,2026-07-31,Pessoa Física
+C0035,Enzo Gomes,Taubaté,SP,2026-08-05,Pessoa Física
+C0081,Gustavo Dias,Campinas,SP,2026-08-06,Pessoa Física
+C0539,Gustavo Costa,Caçapava,SP,2026-08-07,Pessoa Física
+C0305,Isabela Nascimento,Guaratinguetá,SP,2026-08-08,Pessoa Física
+C0362,Nicolas Lopes,Pindamonhangaba,SP,2026-08-09,Pessoa Física
+C0299,João Moraes,Sorocaba,SP,2026-08-12,Pessoa Física
+C0601,Bruno Ribeiro,Caçapava,SP,2026-08-12,Pessoa Física
+C0377,Paula Ribeiro,Taubaté,SP,2026-08-18,Pessoa Física
+C0019,Olivia Carvalho,Caçapava,SP,2026-08-21,Pessoa Física
+C0319,Rafaela Monteiro,Jacareí,SP,2026-08-29,Pessoa Física
+C0246,Mateus Costa,Campinas,SP,2026-08-31,Pessoa Física

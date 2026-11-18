@@ -1,0 +1,613 @@
+﻿data,produto_id,demanda_solicitada_simulada,unidades_vendidas_simuladas,unidades_nao_atendidas_simuladas,estoque_abertura,estoque_fechamento,status_venda_simulado,origem_dado
+2026-11-01 00:00:00,P001,0,0,0,18,18,Ativo,Simulado
+2026-11-01 00:00:00,P002,1,1,0,18,17,Ativo,Simulado
+2026-11-01 00:00:00,P003,0,0,0,14,14,Ativo,Simulado
+2026-11-01 00:00:00,P004,0,0,0,8,8,Ativo,Simulado
+2026-11-01 00:00:00,P005,0,0,0,37,37,Ativo,Simulado
+2026-11-01 00:00:00,P006,0,0,0,14,14,Ativo com alerta,Simulado
+2026-11-01 00:00:00,P007,0,0,0,30,30,Ativo,Simulado
+2026-11-01 00:00:00,P008,0,0,0,2,2,Ativo com alerta,Simulado
+2026-11-01 00:00:00,P009,0,0,0,10,10,Ativo com alerta,Simulado
+2026-11-01 00:00:00,P010,0,0,0,12,12,Ativo,Simulado
+2026-11-01 00:00:00,P011,1,1,0,10,9,Ativo com alerta,Simulado
+2026-11-01 00:00:00,P012,0,0,0,28,28,Ativo,Simulado
+2026-11-01 00:00:00,P013,0,0,0,17,17,Ativo,Simulado
+2026-11-01 00:00:00,P014,1,1,0,14,13,Ativo,Simulado
+2026-11-01 00:00:00,P015,0,0,0,9,9,Ativo,Simulado
+2026-11-01 00:00:00,P016,0,0,0,0,0,Pausado,Simulado
+2026-11-01 00:00:00,P017,0,0,0,14,14,Ativo com alerta,Simulado
+2026-11-01 00:00:00,P018,0,0,0,30,30,Ativo,Simulado
+2026-11-01 00:00:00,P019,0,0,0,5,5,Ativo com alerta,Simulado
+2026-11-01 00:00:00,P020,0,0,0,50,50,Ativo,Simulado
+2026-11-01 00:00:00,P021,0,0,0,47,47,Ativo,Simulado
+2026-11-01 00:00:00,P022,0,0,0,12,12,Ativo,Simulado
+2026-11-01 00:00:00,P023,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-01 00:00:00,P024,1,1,0,44,43,Ativo,Simulado
+2026-11-01 00:00:00,P025,0,0,0,51,51,Ativo,Simulado
+2026-11-01 00:00:00,P026,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-01 00:00:00,P027,0,0,0,47,47,Ativo,Simulado
+2026-11-01 00:00:00,P028,0,0,0,19,19,Ativo,Simulado
+2026-11-01 00:00:00,P029,2,2,0,3,1,Ativo com alerta,Simulado
+2026-11-01 00:00:00,P030,0,0,0,33,33,Ativo,Simulado
+2026-11-01 00:00:00,P031,0,0,0,14,14,Ativo,Simulado
+2026-11-01 00:00:00,P032,0,0,0,40,40,Ativo,Simulado
+2026-11-01 00:00:00,P033,0,0,0,13,13,Ativo,Simulado
+2026-11-01 00:00:00,P034,0,0,0,39,39,Ativo,Simulado
+2026-11-01 00:00:00,P035,0,0,0,23,23,Ativo,Simulado
+2026-11-01 00:00:00,P036,1,1,0,21,20,Ativo,Simulado
+2026-11-02 00:00:00,P001,0,0,0,18,18,Ativo,Simulado
+2026-11-02 00:00:00,P002,0,0,0,17,17,Ativo,Simulado
+2026-11-02 00:00:00,P003,0,0,0,14,14,Ativo,Simulado
+2026-11-02 00:00:00,P004,1,1,0,8,7,Ativo com alerta,Simulado
+2026-11-02 00:00:00,P005,0,0,0,37,37,Ativo,Simulado
+2026-11-02 00:00:00,P006,0,0,0,14,14,Ativo com alerta,Simulado
+2026-11-02 00:00:00,P007,0,0,0,30,30,Ativo,Simulado
+2026-11-02 00:00:00,P008,0,0,0,2,2,Ativo com alerta,Simulado
+2026-11-02 00:00:00,P009,1,1,0,10,9,Ativo com alerta,Simulado
+2026-11-02 00:00:00,P010,0,0,0,12,12,Ativo,Simulado
+2026-11-02 00:00:00,P011,0,0,0,9,9,Ativo com alerta,Simulado
+2026-11-02 00:00:00,P012,0,0,0,28,28,Ativo,Simulado
+2026-11-02 00:00:00,P013,0,0,0,17,17,Ativo,Simulado
+2026-11-02 00:00:00,P014,0,0,0,13,13,Ativo,Simulado
+2026-11-02 00:00:00,P015,0,0,0,9,9,Ativo,Simulado
+2026-11-02 00:00:00,P016,0,0,0,0,0,Pausado,Simulado
+2026-11-02 00:00:00,P017,0,0,0,14,14,Ativo com alerta,Simulado
+2026-11-02 00:00:00,P018,1,1,0,30,29,Ativo,Simulado
+2026-11-02 00:00:00,P019,0,0,0,5,5,Ativo com alerta,Simulado
+2026-11-02 00:00:00,P020,0,0,0,50,50,Ativo,Simulado
+2026-11-02 00:00:00,P021,0,0,0,47,47,Ativo,Simulado
+2026-11-02 00:00:00,P022,1,1,0,12,11,Ativo com alerta,Simulado
+2026-11-02 00:00:00,P023,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-02 00:00:00,P024,0,0,0,43,43,Ativo,Simulado
+2026-11-02 00:00:00,P025,0,0,0,51,51,Ativo,Simulado
+2026-11-02 00:00:00,P026,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-02 00:00:00,P027,0,0,0,47,47,Ativo,Simulado
+2026-11-02 00:00:00,P028,0,0,0,19,19,Ativo,Simulado
+2026-11-02 00:00:00,P029,0,0,0,1,1,Ativo com alerta,Simulado
+2026-11-02 00:00:00,P030,0,0,0,33,33,Ativo,Simulado
+2026-11-02 00:00:00,P031,0,0,0,14,14,Ativo,Simulado
+2026-11-02 00:00:00,P032,0,0,0,40,40,Ativo,Simulado
+2026-11-02 00:00:00,P033,0,0,0,13,13,Ativo,Simulado
+2026-11-02 00:00:00,P034,2,2,0,39,37,Ativo,Simulado
+2026-11-02 00:00:00,P035,0,0,0,23,23,Ativo,Simulado
+2026-11-02 00:00:00,P036,0,0,0,20,20,Ativo,Simulado
+2026-11-03 00:00:00,P001,0,0,0,18,18,Ativo,Simulado
+2026-11-03 00:00:00,P002,0,0,0,17,17,Ativo,Simulado
+2026-11-03 00:00:00,P003,0,0,0,14,14,Ativo,Simulado
+2026-11-03 00:00:00,P004,0,0,0,7,7,Ativo com alerta,Simulado
+2026-11-03 00:00:00,P005,0,0,0,37,37,Ativo,Simulado
+2026-11-03 00:00:00,P006,0,0,0,14,14,Ativo com alerta,Simulado
+2026-11-03 00:00:00,P007,0,0,0,30,30,Ativo,Simulado
+2026-11-03 00:00:00,P008,0,0,0,2,2,Ativo com alerta,Simulado
+2026-11-03 00:00:00,P009,0,0,0,9,9,Ativo com alerta,Simulado
+2026-11-03 00:00:00,P010,0,0,0,12,12,Ativo,Simulado
+2026-11-03 00:00:00,P011,1,1,0,9,8,Ativo com alerta,Simulado
+2026-11-03 00:00:00,P012,1,1,0,28,27,Ativo,Simulado
+2026-11-03 00:00:00,P013,0,0,0,17,17,Ativo,Simulado
+2026-11-03 00:00:00,P014,0,0,0,13,13,Ativo,Simulado
+2026-11-03 00:00:00,P015,0,0,0,9,9,Ativo,Simulado
+2026-11-03 00:00:00,P016,0,0,0,0,0,Pausado,Simulado
+2026-11-03 00:00:00,P017,0,0,0,14,14,Ativo com alerta,Simulado
+2026-11-03 00:00:00,P018,0,0,0,29,29,Ativo,Simulado
+2026-11-03 00:00:00,P019,0,0,0,5,5,Ativo com alerta,Simulado
+2026-11-03 00:00:00,P020,0,0,0,50,50,Ativo,Simulado
+2026-11-03 00:00:00,P021,0,0,0,47,47,Ativo,Simulado
+2026-11-03 00:00:00,P022,1,1,0,11,10,Ativo com alerta,Simulado
+2026-11-03 00:00:00,P023,1,1,0,11,10,Ativo com alerta,Simulado
+2026-11-03 00:00:00,P024,0,0,0,43,43,Ativo,Simulado
+2026-11-03 00:00:00,P025,0,0,0,51,51,Ativo,Simulado
+2026-11-03 00:00:00,P026,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-03 00:00:00,P027,0,0,0,47,47,Ativo,Simulado
+2026-11-03 00:00:00,P028,0,0,0,19,19,Ativo,Simulado
+2026-11-03 00:00:00,P029,0,0,0,1,1,Ativo com alerta,Simulado
+2026-11-03 00:00:00,P030,0,0,0,33,33,Ativo,Simulado
+2026-11-03 00:00:00,P031,0,0,0,14,14,Ativo,Simulado
+2026-11-03 00:00:00,P032,0,0,0,40,40,Ativo,Simulado
+2026-11-03 00:00:00,P033,0,0,0,13,13,Ativo,Simulado
+2026-11-03 00:00:00,P034,0,0,0,37,37,Ativo,Simulado
+2026-11-03 00:00:00,P035,0,0,0,23,23,Ativo,Simulado
+2026-11-03 00:00:00,P036,0,0,0,20,20,Ativo,Simulado
+2026-11-04 00:00:00,P001,0,0,0,18,18,Ativo,Simulado
+2026-11-04 00:00:00,P002,1,1,0,17,16,Ativo,Simulado
+2026-11-04 00:00:00,P003,0,0,0,14,14,Ativo,Simulado
+2026-11-04 00:00:00,P004,1,1,0,7,6,Ativo com alerta,Simulado
+2026-11-04 00:00:00,P005,0,0,0,37,37,Ativo,Simulado
+2026-11-04 00:00:00,P006,1,1,0,14,13,Ativo com alerta,Simulado
+2026-11-04 00:00:00,P007,0,0,0,30,30,Ativo,Simulado
+2026-11-04 00:00:00,P008,0,0,0,2,2,Ativo com alerta,Simulado
+2026-11-04 00:00:00,P009,0,0,0,9,9,Ativo com alerta,Simulado
+2026-11-04 00:00:00,P010,1,1,0,12,11,Ativo,Simulado
+2026-11-04 00:00:00,P011,0,0,0,8,8,Ativo com alerta,Simulado
+2026-11-04 00:00:00,P012,0,0,0,27,27,Ativo,Simulado
+2026-11-04 00:00:00,P013,0,0,0,17,17,Ativo,Simulado
+2026-11-04 00:00:00,P014,0,0,0,13,13,Ativo,Simulado
+2026-11-04 00:00:00,P015,0,0,0,9,9,Ativo,Simulado
+2026-11-04 00:00:00,P016,0,0,0,0,0,Pausado,Simulado
+2026-11-04 00:00:00,P017,0,0,0,14,14,Ativo com alerta,Simulado
+2026-11-04 00:00:00,P018,0,0,0,29,29,Ativo,Simulado
+2026-11-04 00:00:00,P019,0,0,0,5,5,Ativo com alerta,Simulado
+2026-11-04 00:00:00,P020,0,0,0,50,50,Ativo,Simulado
+2026-11-04 00:00:00,P021,0,0,0,47,47,Ativo,Simulado
+2026-11-04 00:00:00,P022,3,3,0,10,7,Ativo com alerta,Simulado
+2026-11-04 00:00:00,P023,0,0,0,10,10,Ativo com alerta,Simulado
+2026-11-04 00:00:00,P024,1,1,0,43,42,Ativo,Simulado
+2026-11-04 00:00:00,P025,0,0,0,51,51,Ativo,Simulado
+2026-11-04 00:00:00,P026,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-04 00:00:00,P027,2,2,0,47,45,Ativo,Simulado
+2026-11-04 00:00:00,P028,1,1,0,19,18,Ativo,Simulado
+2026-11-04 00:00:00,P029,0,0,0,1,1,Ativo com alerta,Simulado
+2026-11-04 00:00:00,P030,0,0,0,33,33,Ativo,Simulado
+2026-11-04 00:00:00,P031,0,0,0,14,14,Ativo,Simulado
+2026-11-04 00:00:00,P032,0,0,0,40,40,Ativo,Simulado
+2026-11-04 00:00:00,P033,0,0,0,13,13,Ativo,Simulado
+2026-11-04 00:00:00,P034,0,0,0,37,37,Ativo,Simulado
+2026-11-04 00:00:00,P035,0,0,0,23,23,Ativo,Simulado
+2026-11-04 00:00:00,P036,1,1,0,20,19,Ativo,Simulado
+2026-11-05 00:00:00,P001,0,0,0,18,18,Ativo,Simulado
+2026-11-05 00:00:00,P002,0,0,0,16,16,Ativo,Simulado
+2026-11-05 00:00:00,P003,0,0,0,14,14,Ativo,Simulado
+2026-11-05 00:00:00,P004,0,0,0,6,6,Ativo com alerta,Simulado
+2026-11-05 00:00:00,P005,0,0,0,37,37,Ativo,Simulado
+2026-11-05 00:00:00,P006,1,1,0,13,12,Ativo com alerta,Simulado
+2026-11-05 00:00:00,P007,0,0,0,30,30,Ativo,Simulado
+2026-11-05 00:00:00,P008,0,0,0,2,2,Ativo com alerta,Simulado
+2026-11-05 00:00:00,P009,0,0,0,9,9,Ativo com alerta,Simulado
+2026-11-05 00:00:00,P010,0,0,0,11,11,Ativo,Simulado
+2026-11-05 00:00:00,P011,1,1,0,8,7,Ativo com alerta,Simulado
+2026-11-05 00:00:00,P012,0,0,0,27,27,Ativo,Simulado
+2026-11-05 00:00:00,P013,0,0,0,17,17,Ativo,Simulado
+2026-11-05 00:00:00,P014,0,0,0,13,13,Ativo,Simulado
+2026-11-05 00:00:00,P015,1,1,0,9,8,Ativo,Simulado
+2026-11-05 00:00:00,P016,0,0,0,0,0,Pausado,Simulado
+2026-11-05 00:00:00,P017,0,0,0,14,14,Ativo com alerta,Simulado
+2026-11-05 00:00:00,P018,0,0,0,29,29,Ativo,Simulado
+2026-11-05 00:00:00,P019,1,1,0,5,4,Ativo com alerta,Simulado
+2026-11-05 00:00:00,P020,0,0,0,50,50,Ativo,Simulado
+2026-11-05 00:00:00,P021,0,0,0,47,47,Ativo,Simulado
+2026-11-05 00:00:00,P022,0,0,0,7,7,Ativo com alerta,Simulado
+2026-11-05 00:00:00,P023,1,1,0,10,9,Ativo com alerta,Simulado
+2026-11-05 00:00:00,P024,0,0,0,42,42,Ativo,Simulado
+2026-11-05 00:00:00,P025,0,0,0,51,51,Ativo,Simulado
+2026-11-05 00:00:00,P026,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-05 00:00:00,P027,1,1,0,45,44,Ativo,Simulado
+2026-11-05 00:00:00,P028,0,0,0,18,18,Ativo,Simulado
+2026-11-05 00:00:00,P029,0,0,0,1,1,Ativo com alerta,Simulado
+2026-11-05 00:00:00,P030,0,0,0,33,33,Ativo,Simulado
+2026-11-05 00:00:00,P031,0,0,0,14,14,Ativo,Simulado
+2026-11-05 00:00:00,P032,0,0,0,40,40,Ativo,Simulado
+2026-11-05 00:00:00,P033,0,0,0,13,13,Ativo,Simulado
+2026-11-05 00:00:00,P034,0,0,0,37,37,Ativo,Simulado
+2026-11-05 00:00:00,P035,0,0,0,23,23,Ativo,Simulado
+2026-11-05 00:00:00,P036,3,3,0,19,16,Ativo,Simulado
+2026-11-06 00:00:00,P001,0,0,0,18,18,Ativo,Simulado
+2026-11-06 00:00:00,P002,1,1,0,16,15,Ativo,Simulado
+2026-11-06 00:00:00,P003,0,0,0,14,14,Ativo,Simulado
+2026-11-06 00:00:00,P004,0,0,0,6,6,Ativo com alerta,Simulado
+2026-11-06 00:00:00,P005,0,0,0,37,37,Ativo,Simulado
+2026-11-06 00:00:00,P006,0,0,0,12,12,Ativo com alerta,Simulado
+2026-11-06 00:00:00,P007,1,1,0,30,29,Ativo,Simulado
+2026-11-06 00:00:00,P008,0,0,0,2,2,Ativo com alerta,Simulado
+2026-11-06 00:00:00,P009,0,0,0,9,9,Ativo com alerta,Simulado
+2026-11-06 00:00:00,P010,0,0,0,11,11,Ativo,Simulado
+2026-11-06 00:00:00,P011,1,1,0,7,6,Ativo com alerta,Simulado
+2026-11-06 00:00:00,P012,0,0,0,27,27,Ativo,Simulado
+2026-11-06 00:00:00,P013,0,0,0,17,17,Ativo,Simulado
+2026-11-06 00:00:00,P014,0,0,0,13,13,Ativo,Simulado
+2026-11-06 00:00:00,P015,0,0,0,8,8,Ativo,Simulado
+2026-11-06 00:00:00,P016,0,0,0,0,0,Pausado,Simulado
+2026-11-06 00:00:00,P017,1,1,0,14,13,Ativo com alerta,Simulado
+2026-11-06 00:00:00,P018,1,1,0,29,28,Ativo,Simulado
+2026-11-06 00:00:00,P019,0,0,0,4,4,Ativo com alerta,Simulado
+2026-11-06 00:00:00,P020,1,1,0,50,49,Ativo,Simulado
+2026-11-06 00:00:00,P021,0,0,0,47,47,Ativo,Simulado
+2026-11-06 00:00:00,P022,0,0,0,7,7,Ativo com alerta,Simulado
+2026-11-06 00:00:00,P023,0,0,0,9,9,Ativo com alerta,Simulado
+2026-11-06 00:00:00,P024,1,1,0,42,41,Ativo,Simulado
+2026-11-06 00:00:00,P025,0,0,0,51,51,Ativo,Simulado
+2026-11-06 00:00:00,P026,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-06 00:00:00,P027,2,2,0,44,42,Ativo,Simulado
+2026-11-06 00:00:00,P028,1,1,0,18,17,Ativo,Simulado
+2026-11-06 00:00:00,P029,1,1,0,1,0,Pausado,Simulado
+2026-11-06 00:00:00,P030,0,0,0,33,33,Ativo,Simulado
+2026-11-06 00:00:00,P031,0,0,0,14,14,Ativo,Simulado
+2026-11-06 00:00:00,P032,1,1,0,40,39,Ativo,Simulado
+2026-11-06 00:00:00,P033,0,0,0,13,13,Ativo,Simulado
+2026-11-06 00:00:00,P034,0,0,0,37,37,Ativo,Simulado
+2026-11-06 00:00:00,P035,0,0,0,23,23,Ativo,Simulado
+2026-11-06 00:00:00,P036,2,2,0,16,14,Ativo com alerta,Simulado
+2026-11-07 00:00:00,P001,0,0,0,18,18,Ativo,Simulado
+2026-11-07 00:00:00,P002,0,0,0,15,15,Ativo,Simulado
+2026-11-07 00:00:00,P003,0,0,0,14,14,Ativo,Simulado
+2026-11-07 00:00:00,P004,0,0,0,6,6,Ativo com alerta,Simulado
+2026-11-07 00:00:00,P005,0,0,0,37,37,Ativo,Simulado
+2026-11-07 00:00:00,P006,0,0,0,12,12,Ativo com alerta,Simulado
+2026-11-07 00:00:00,P007,0,0,0,29,29,Ativo,Simulado
+2026-11-07 00:00:00,P008,0,0,0,2,2,Ativo com alerta,Simulado
+2026-11-07 00:00:00,P009,0,0,0,9,9,Ativo com alerta,Simulado
+2026-11-07 00:00:00,P010,1,1,0,11,10,Ativo,Simulado
+2026-11-07 00:00:00,P011,0,0,0,6,6,Ativo com alerta,Simulado
+2026-11-07 00:00:00,P012,1,1,0,27,26,Ativo,Simulado
+2026-11-07 00:00:00,P013,0,0,0,17,17,Ativo,Simulado
+2026-11-07 00:00:00,P014,0,0,0,13,13,Ativo,Simulado
+2026-11-07 00:00:00,P015,0,0,0,8,8,Ativo,Simulado
+2026-11-07 00:00:00,P016,0,0,0,0,0,Pausado,Simulado
+2026-11-07 00:00:00,P017,2,2,0,13,11,Ativo com alerta,Simulado
+2026-11-07 00:00:00,P018,0,0,0,28,28,Ativo,Simulado
+2026-11-07 00:00:00,P019,0,0,0,4,4,Ativo com alerta,Simulado
+2026-11-07 00:00:00,P020,0,0,0,49,49,Ativo,Simulado
+2026-11-07 00:00:00,P021,0,0,0,47,47,Ativo,Simulado
+2026-11-07 00:00:00,P022,0,0,0,7,7,Ativo com alerta,Simulado
+2026-11-07 00:00:00,P023,1,1,0,9,8,Ativo com alerta,Simulado
+2026-11-07 00:00:00,P024,0,0,0,41,41,Ativo,Simulado
+2026-11-07 00:00:00,P025,0,0,0,51,51,Ativo,Simulado
+2026-11-07 00:00:00,P026,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-07 00:00:00,P027,1,1,0,42,41,Ativo,Simulado
+2026-11-07 00:00:00,P028,0,0,0,17,17,Ativo,Simulado
+2026-11-07 00:00:00,P029,0,0,0,0,0,Pausado,Simulado
+2026-11-07 00:00:00,P030,0,0,0,33,33,Ativo,Simulado
+2026-11-07 00:00:00,P031,0,0,0,14,14,Ativo,Simulado
+2026-11-07 00:00:00,P032,0,0,0,39,39,Ativo,Simulado
+2026-11-07 00:00:00,P033,0,0,0,13,13,Ativo,Simulado
+2026-11-07 00:00:00,P034,0,0,0,37,37,Ativo,Simulado
+2026-11-07 00:00:00,P035,0,0,0,23,23,Ativo,Simulado
+2026-11-07 00:00:00,P036,1,1,0,14,13,Ativo com alerta,Simulado
+2026-11-08 00:00:00,P001,0,0,0,18,18,Ativo,Simulado
+2026-11-08 00:00:00,P002,0,0,0,15,15,Ativo,Simulado
+2026-11-08 00:00:00,P003,0,0,0,14,14,Ativo,Simulado
+2026-11-08 00:00:00,P004,0,0,0,6,6,Ativo com alerta,Simulado
+2026-11-08 00:00:00,P005,0,0,0,37,37,Ativo,Simulado
+2026-11-08 00:00:00,P006,0,0,0,12,12,Ativo com alerta,Simulado
+2026-11-08 00:00:00,P007,0,0,0,29,29,Ativo,Simulado
+2026-11-08 00:00:00,P008,1,1,0,2,1,Ativo com alerta,Simulado
+2026-11-08 00:00:00,P009,0,0,0,9,9,Ativo com alerta,Simulado
+2026-11-08 00:00:00,P010,0,0,0,10,10,Ativo,Simulado
+2026-11-08 00:00:00,P011,0,0,0,6,6,Ativo com alerta,Simulado
+2026-11-08 00:00:00,P012,0,0,0,26,26,Ativo,Simulado
+2026-11-08 00:00:00,P013,0,0,0,17,17,Ativo,Simulado
+2026-11-08 00:00:00,P014,0,0,0,13,13,Ativo,Simulado
+2026-11-08 00:00:00,P015,0,0,0,8,8,Ativo,Simulado
+2026-11-08 00:00:00,P016,0,0,0,0,0,Pausado,Simulado
+2026-11-08 00:00:00,P017,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-08 00:00:00,P018,0,0,0,28,28,Ativo,Simulado
+2026-11-08 00:00:00,P019,0,0,0,4,4,Ativo com alerta,Simulado
+2026-11-08 00:00:00,P020,0,0,0,49,49,Ativo,Simulado
+2026-11-08 00:00:00,P021,1,1,0,47,46,Ativo,Simulado
+2026-11-08 00:00:00,P022,1,1,0,7,6,Ativo com alerta,Simulado
+2026-11-08 00:00:00,P023,0,0,0,8,8,Ativo com alerta,Simulado
+2026-11-08 00:00:00,P024,0,0,0,41,41,Ativo,Simulado
+2026-11-08 00:00:00,P025,0,0,0,51,51,Ativo,Simulado
+2026-11-08 00:00:00,P026,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-08 00:00:00,P027,0,0,0,41,41,Ativo,Simulado
+2026-11-08 00:00:00,P028,0,0,0,17,17,Ativo,Simulado
+2026-11-08 00:00:00,P029,1,0,1,0,0,Pausado,Simulado
+2026-11-08 00:00:00,P030,0,0,0,33,33,Ativo,Simulado
+2026-11-08 00:00:00,P031,0,0,0,14,14,Ativo,Simulado
+2026-11-08 00:00:00,P032,0,0,0,39,39,Ativo,Simulado
+2026-11-08 00:00:00,P033,0,0,0,13,13,Ativo,Simulado
+2026-11-08 00:00:00,P034,0,0,0,37,37,Ativo,Simulado
+2026-11-08 00:00:00,P035,0,0,0,23,23,Ativo,Simulado
+2026-11-08 00:00:00,P036,0,0,0,13,13,Ativo com alerta,Simulado
+2026-11-09 00:00:00,P001,0,0,0,18,18,Ativo,Simulado
+2026-11-09 00:00:00,P002,0,0,0,15,15,Ativo,Simulado
+2026-11-09 00:00:00,P003,0,0,0,14,14,Ativo,Simulado
+2026-11-09 00:00:00,P004,0,0,0,6,6,Ativo com alerta,Simulado
+2026-11-09 00:00:00,P005,0,0,0,37,37,Ativo,Simulado
+2026-11-09 00:00:00,P006,1,1,0,12,11,Ativo com alerta,Simulado
+2026-11-09 00:00:00,P007,0,0,0,29,29,Ativo,Simulado
+2026-11-09 00:00:00,P008,0,0,0,1,1,Ativo com alerta,Simulado
+2026-11-09 00:00:00,P009,0,0,0,9,9,Ativo com alerta,Simulado
+2026-11-09 00:00:00,P010,1,1,0,10,9,Ativo com alerta,Simulado
+2026-11-09 00:00:00,P011,0,0,0,6,6,Ativo com alerta,Simulado
+2026-11-09 00:00:00,P012,0,0,0,26,26,Ativo,Simulado
+2026-11-09 00:00:00,P013,0,0,0,17,17,Ativo,Simulado
+2026-11-09 00:00:00,P014,0,0,0,13,13,Ativo,Simulado
+2026-11-09 00:00:00,P015,1,1,0,8,7,Ativo,Simulado
+2026-11-09 00:00:00,P016,0,0,0,0,0,Pausado,Simulado
+2026-11-09 00:00:00,P017,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-09 00:00:00,P018,0,0,0,28,28,Ativo,Simulado
+2026-11-09 00:00:00,P019,0,0,0,4,4,Ativo com alerta,Simulado
+2026-11-09 00:00:00,P020,0,0,0,49,49,Ativo,Simulado
+2026-11-09 00:00:00,P021,1,1,0,46,45,Ativo,Simulado
+2026-11-09 00:00:00,P022,0,0,0,6,6,Ativo com alerta,Simulado
+2026-11-09 00:00:00,P023,0,0,0,8,8,Ativo com alerta,Simulado
+2026-11-09 00:00:00,P024,0,0,0,41,41,Ativo,Simulado
+2026-11-09 00:00:00,P025,2,2,0,51,49,Ativo,Simulado
+2026-11-09 00:00:00,P026,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-09 00:00:00,P027,0,0,0,41,41,Ativo,Simulado
+2026-11-09 00:00:00,P028,0,0,0,17,17,Ativo,Simulado
+2026-11-09 00:00:00,P029,0,0,0,0,0,Pausado,Simulado
+2026-11-09 00:00:00,P030,0,0,0,33,33,Ativo,Simulado
+2026-11-09 00:00:00,P031,0,0,0,14,14,Ativo,Simulado
+2026-11-09 00:00:00,P032,0,0,0,39,39,Ativo,Simulado
+2026-11-09 00:00:00,P033,0,0,0,13,13,Ativo,Simulado
+2026-11-09 00:00:00,P034,0,0,0,37,37,Ativo,Simulado
+2026-11-09 00:00:00,P035,0,0,0,23,23,Ativo,Simulado
+2026-11-09 00:00:00,P036,0,0,0,13,13,Ativo com alerta,Simulado
+2026-11-10 00:00:00,P001,1,1,0,18,17,Ativo,Simulado
+2026-11-10 00:00:00,P002,0,0,0,15,15,Ativo,Simulado
+2026-11-10 00:00:00,P003,1,1,0,14,13,Ativo,Simulado
+2026-11-10 00:00:00,P004,0,0,0,6,6,Ativo com alerta,Simulado
+2026-11-10 00:00:00,P005,0,0,0,37,37,Ativo,Simulado
+2026-11-10 00:00:00,P006,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-10 00:00:00,P007,0,0,0,29,29,Ativo,Simulado
+2026-11-10 00:00:00,P008,2,1,1,1,0,Pausado,Simulado
+2026-11-10 00:00:00,P009,0,0,0,9,9,Ativo com alerta,Simulado
+2026-11-10 00:00:00,P010,0,0,0,9,9,Ativo com alerta,Simulado
+2026-11-10 00:00:00,P011,1,1,0,6,5,Ativo com alerta,Simulado
+2026-11-10 00:00:00,P012,1,1,0,26,25,Ativo,Simulado
+2026-11-10 00:00:00,P013,0,0,0,17,17,Ativo,Simulado
+2026-11-10 00:00:00,P014,0,0,0,13,13,Ativo,Simulado
+2026-11-10 00:00:00,P015,1,1,0,7,6,Ativo,Simulado
+2026-11-10 00:00:00,P016,0,0,0,0,0,Pausado,Simulado
+2026-11-10 00:00:00,P017,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-10 00:00:00,P018,0,0,0,28,28,Ativo,Simulado
+2026-11-10 00:00:00,P019,0,0,0,4,4,Ativo com alerta,Simulado
+2026-11-10 00:00:00,P020,0,0,0,49,49,Ativo,Simulado
+2026-11-10 00:00:00,P021,0,0,0,45,45,Ativo,Simulado
+2026-11-10 00:00:00,P022,1,1,0,6,5,Ativo com alerta,Simulado
+2026-11-10 00:00:00,P023,1,1,0,8,7,Ativo com alerta,Simulado
+2026-11-10 00:00:00,P024,0,0,0,41,41,Ativo,Simulado
+2026-11-10 00:00:00,P025,0,0,0,49,49,Ativo,Simulado
+2026-11-10 00:00:00,P026,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-10 00:00:00,P027,0,0,0,41,41,Ativo,Simulado
+2026-11-10 00:00:00,P028,0,0,0,17,17,Ativo,Simulado
+2026-11-10 00:00:00,P029,0,0,0,0,0,Pausado,Simulado
+2026-11-10 00:00:00,P030,0,0,0,33,33,Ativo,Simulado
+2026-11-10 00:00:00,P031,0,0,0,14,14,Ativo,Simulado
+2026-11-10 00:00:00,P032,0,0,0,39,39,Ativo,Simulado
+2026-11-10 00:00:00,P033,0,0,0,13,13,Ativo,Simulado
+2026-11-10 00:00:00,P034,1,1,0,37,36,Ativo,Simulado
+2026-11-10 00:00:00,P035,0,0,0,23,23,Ativo,Simulado
+2026-11-10 00:00:00,P036,0,0,0,13,13,Ativo com alerta,Simulado
+2026-11-11 00:00:00,P001,0,0,0,17,17,Ativo,Simulado
+2026-11-11 00:00:00,P002,1,1,0,15,14,Ativo,Simulado
+2026-11-11 00:00:00,P003,0,0,0,13,13,Ativo,Simulado
+2026-11-11 00:00:00,P004,0,0,0,6,6,Ativo com alerta,Simulado
+2026-11-11 00:00:00,P005,1,1,0,37,36,Ativo,Simulado
+2026-11-11 00:00:00,P006,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-11 00:00:00,P007,0,0,0,29,29,Ativo,Simulado
+2026-11-11 00:00:00,P008,0,0,0,0,0,Pausado,Simulado
+2026-11-11 00:00:00,P009,0,0,0,9,9,Ativo com alerta,Simulado
+2026-11-11 00:00:00,P010,0,0,0,9,9,Ativo com alerta,Simulado
+2026-11-11 00:00:00,P011,0,0,0,5,5,Ativo com alerta,Simulado
+2026-11-11 00:00:00,P012,0,0,0,25,25,Ativo,Simulado
+2026-11-11 00:00:00,P013,0,0,0,17,17,Ativo,Simulado
+2026-11-11 00:00:00,P014,0,0,0,13,13,Ativo,Simulado
+2026-11-11 00:00:00,P015,0,0,0,6,6,Ativo,Simulado
+2026-11-11 00:00:00,P016,1,0,1,0,0,Pausado,Simulado
+2026-11-11 00:00:00,P017,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-11 00:00:00,P018,1,1,0,28,27,Ativo,Simulado
+2026-11-11 00:00:00,P019,0,0,0,4,4,Ativo com alerta,Simulado
+2026-11-11 00:00:00,P020,0,0,0,49,49,Ativo,Simulado
+2026-11-11 00:00:00,P021,0,0,0,45,45,Ativo,Simulado
+2026-11-11 00:00:00,P022,0,0,0,5,5,Ativo com alerta,Simulado
+2026-11-11 00:00:00,P023,0,0,0,7,7,Ativo com alerta,Simulado
+2026-11-11 00:00:00,P024,0,0,0,41,41,Ativo,Simulado
+2026-11-11 00:00:00,P025,0,0,0,49,49,Ativo,Simulado
+2026-11-11 00:00:00,P026,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-11 00:00:00,P027,1,1,0,41,40,Ativo,Simulado
+2026-11-11 00:00:00,P028,1,1,0,17,16,Ativo,Simulado
+2026-11-11 00:00:00,P029,0,0,0,0,0,Pausado,Simulado
+2026-11-11 00:00:00,P030,0,0,0,33,33,Ativo,Simulado
+2026-11-11 00:00:00,P031,0,0,0,14,14,Ativo,Simulado
+2026-11-11 00:00:00,P032,0,0,0,39,39,Ativo,Simulado
+2026-11-11 00:00:00,P033,0,0,0,13,13,Ativo,Simulado
+2026-11-11 00:00:00,P034,0,0,0,36,36,Ativo,Simulado
+2026-11-11 00:00:00,P035,0,0,0,23,23,Ativo,Simulado
+2026-11-11 00:00:00,P036,3,3,0,13,10,Ativo com alerta,Simulado
+2026-11-12 00:00:00,P001,0,0,0,17,17,Ativo,Simulado
+2026-11-12 00:00:00,P002,1,1,0,14,13,Ativo,Simulado
+2026-11-12 00:00:00,P003,0,0,0,13,13,Ativo,Simulado
+2026-11-12 00:00:00,P004,0,0,0,6,6,Ativo com alerta,Simulado
+2026-11-12 00:00:00,P005,0,0,0,36,36,Ativo,Simulado
+2026-11-12 00:00:00,P006,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-12 00:00:00,P007,1,1,0,29,28,Ativo,Simulado
+2026-11-12 00:00:00,P008,0,0,0,0,0,Pausado,Simulado
+2026-11-12 00:00:00,P009,0,0,0,9,9,Ativo com alerta,Simulado
+2026-11-12 00:00:00,P010,0,0,0,9,9,Ativo com alerta,Simulado
+2026-11-12 00:00:00,P011,1,1,0,5,4,Ativo com alerta,Simulado
+2026-11-12 00:00:00,P012,0,0,0,25,25,Ativo,Simulado
+2026-11-12 00:00:00,P013,0,0,0,17,17,Ativo,Simulado
+2026-11-12 00:00:00,P014,0,0,0,13,13,Ativo,Simulado
+2026-11-12 00:00:00,P015,0,0,0,6,6,Ativo,Simulado
+2026-11-12 00:00:00,P016,0,0,0,0,0,Pausado,Simulado
+2026-11-12 00:00:00,P017,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-12 00:00:00,P018,0,0,0,27,27,Ativo,Simulado
+2026-11-12 00:00:00,P019,2,2,0,4,2,Ativo com alerta,Simulado
+2026-11-12 00:00:00,P020,0,0,0,49,49,Ativo,Simulado
+2026-11-12 00:00:00,P021,2,2,0,45,43,Ativo,Simulado
+2026-11-12 00:00:00,P022,0,0,0,5,5,Ativo com alerta,Simulado
+2026-11-12 00:00:00,P023,1,1,0,7,6,Ativo com alerta,Simulado
+2026-11-12 00:00:00,P024,0,0,0,41,41,Ativo,Simulado
+2026-11-12 00:00:00,P025,0,0,0,49,49,Ativo,Simulado
+2026-11-12 00:00:00,P026,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-12 00:00:00,P027,0,0,0,40,40,Ativo,Simulado
+2026-11-12 00:00:00,P028,0,0,0,16,16,Ativo,Simulado
+2026-11-12 00:00:00,P029,2,0,2,0,0,Pausado,Simulado
+2026-11-12 00:00:00,P030,0,0,0,33,33,Ativo,Simulado
+2026-11-12 00:00:00,P031,0,0,0,14,14,Ativo,Simulado
+2026-11-12 00:00:00,P032,0,0,0,39,39,Ativo,Simulado
+2026-11-12 00:00:00,P033,0,0,0,13,13,Ativo,Simulado
+2026-11-12 00:00:00,P034,0,0,0,36,36,Ativo,Simulado
+2026-11-12 00:00:00,P035,0,0,0,23,23,Ativo,Simulado
+2026-11-12 00:00:00,P036,0,0,0,10,10,Ativo com alerta,Simulado
+2026-11-13 00:00:00,P001,0,0,0,17,17,Ativo,Simulado
+2026-11-13 00:00:00,P002,1,1,0,13,12,Ativo,Simulado
+2026-11-13 00:00:00,P003,0,0,0,13,13,Ativo,Simulado
+2026-11-13 00:00:00,P004,0,0,0,6,6,Ativo com alerta,Simulado
+2026-11-13 00:00:00,P005,0,0,0,36,36,Ativo,Simulado
+2026-11-13 00:00:00,P006,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-13 00:00:00,P007,1,1,0,28,27,Ativo,Simulado
+2026-11-13 00:00:00,P008,0,0,0,0,0,Pausado,Simulado
+2026-11-13 00:00:00,P009,0,0,0,9,9,Ativo com alerta,Simulado
+2026-11-13 00:00:00,P010,0,0,0,9,9,Ativo com alerta,Simulado
+2026-11-13 00:00:00,P011,0,0,0,4,4,Ativo com alerta,Simulado
+2026-11-13 00:00:00,P012,2,2,0,25,23,Ativo,Simulado
+2026-11-13 00:00:00,P013,0,0,0,17,17,Ativo,Simulado
+2026-11-13 00:00:00,P014,0,0,0,13,13,Ativo,Simulado
+2026-11-13 00:00:00,P015,1,1,0,6,5,Ativo,Simulado
+2026-11-13 00:00:00,P016,0,0,0,0,0,Pausado,Simulado
+2026-11-13 00:00:00,P017,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-13 00:00:00,P018,1,1,0,27,26,Ativo,Simulado
+2026-11-13 00:00:00,P019,0,0,0,2,2,Ativo com alerta,Simulado
+2026-11-13 00:00:00,P020,1,1,0,49,48,Ativo,Simulado
+2026-11-13 00:00:00,P021,1,1,0,43,42,Ativo,Simulado
+2026-11-13 00:00:00,P022,2,2,0,5,3,Ativo com alerta,Simulado
+2026-11-13 00:00:00,P023,0,0,0,6,6,Ativo com alerta,Simulado
+2026-11-13 00:00:00,P024,0,0,0,41,41,Ativo,Simulado
+2026-11-13 00:00:00,P025,0,0,0,49,49,Ativo,Simulado
+2026-11-13 00:00:00,P026,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-13 00:00:00,P027,2,2,0,40,38,Ativo,Simulado
+2026-11-13 00:00:00,P028,0,0,0,16,16,Ativo,Simulado
+2026-11-13 00:00:00,P029,1,0,1,0,0,Pausado,Simulado
+2026-11-13 00:00:00,P030,1,1,0,33,32,Ativo,Simulado
+2026-11-13 00:00:00,P031,0,0,0,14,14,Ativo,Simulado
+2026-11-13 00:00:00,P032,0,0,0,39,39,Ativo,Simulado
+2026-11-13 00:00:00,P033,2,2,0,13,11,Ativo com alerta,Simulado
+2026-11-13 00:00:00,P034,0,0,0,36,36,Ativo,Simulado
+2026-11-13 00:00:00,P035,0,0,0,23,23,Ativo,Simulado
+2026-11-13 00:00:00,P036,1,1,0,10,9,Ativo com alerta,Simulado
+2026-11-14 00:00:00,P001,0,0,0,17,17,Ativo,Simulado
+2026-11-14 00:00:00,P002,1,1,0,12,11,Ativo,Simulado
+2026-11-14 00:00:00,P003,0,0,0,13,13,Ativo,Simulado
+2026-11-14 00:00:00,P004,0,0,0,9,9,Ativo,Simulado
+2026-11-14 00:00:00,P005,0,0,0,36,36,Ativo,Simulado
+2026-11-14 00:00:00,P006,0,0,0,14,14,Ativo com alerta,Simulado
+2026-11-14 00:00:00,P007,0,0,0,27,27,Ativo,Simulado
+2026-11-14 00:00:00,P008,0,0,0,8,8,Ativo,Simulado
+2026-11-14 00:00:00,P009,1,1,0,14,13,Ativo,Simulado
+2026-11-14 00:00:00,P010,0,0,0,12,12,Ativo,Simulado
+2026-11-14 00:00:00,P011,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-14 00:00:00,P012,0,0,0,23,23,Ativo,Simulado
+2026-11-14 00:00:00,P013,0,0,0,17,17,Ativo,Simulado
+2026-11-14 00:00:00,P014,2,2,0,15,13,Ativo,Simulado
+2026-11-14 00:00:00,P015,1,1,0,5,4,Ativo com alerta,Simulado
+2026-11-14 00:00:00,P016,0,0,0,8,8,Ativo,Simulado
+2026-11-14 00:00:00,P017,0,0,0,14,14,Ativo com alerta,Simulado
+2026-11-14 00:00:00,P018,0,0,0,26,26,Ativo,Simulado
+2026-11-14 00:00:00,P019,0,0,0,10,10,Ativo,Simulado
+2026-11-14 00:00:00,P020,0,0,0,48,48,Ativo,Simulado
+2026-11-14 00:00:00,P021,0,0,0,42,42,Ativo,Simulado
+2026-11-14 00:00:00,P022,1,1,0,12,11,Ativo com alerta,Simulado
+2026-11-14 00:00:00,P023,0,0,0,14,14,Ativo com alerta,Simulado
+2026-11-14 00:00:00,P024,1,1,0,41,40,Ativo,Simulado
+2026-11-14 00:00:00,P025,0,0,0,49,49,Ativo,Simulado
+2026-11-14 00:00:00,P026,0,0,0,18,18,Ativo,Simulado
+2026-11-14 00:00:00,P027,1,1,0,38,37,Ativo,Simulado
+2026-11-14 00:00:00,P028,0,0,0,16,16,Ativo,Simulado
+2026-11-14 00:00:00,P029,0,0,0,11,11,Ativo,Simulado
+2026-11-14 00:00:00,P030,0,0,0,32,32,Ativo,Simulado
+2026-11-14 00:00:00,P031,1,1,0,14,13,Ativo,Simulado
+2026-11-14 00:00:00,P032,0,0,0,39,39,Ativo,Simulado
+2026-11-14 00:00:00,P033,0,0,0,16,16,Ativo,Simulado
+2026-11-14 00:00:00,P034,0,0,0,36,36,Ativo,Simulado
+2026-11-14 00:00:00,P035,0,0,0,23,23,Ativo,Simulado
+2026-11-14 00:00:00,P036,0,0,0,12,12,Ativo com alerta,Simulado
+2026-11-15 00:00:00,P001,0,0,0,17,17,Ativo,Simulado
+2026-11-15 00:00:00,P002,0,0,0,11,11,Ativo,Simulado
+2026-11-15 00:00:00,P003,2,2,0,13,11,Ativo,Simulado
+2026-11-15 00:00:00,P004,0,0,0,9,9,Ativo,Simulado
+2026-11-15 00:00:00,P005,0,0,0,36,36,Ativo,Simulado
+2026-11-15 00:00:00,P006,0,0,0,14,14,Ativo com alerta,Simulado
+2026-11-15 00:00:00,P007,0,0,0,27,27,Ativo,Simulado
+2026-11-15 00:00:00,P008,0,0,0,8,8,Ativo,Simulado
+2026-11-15 00:00:00,P009,0,0,0,13,13,Ativo,Simulado
+2026-11-15 00:00:00,P010,1,1,0,12,11,Ativo,Simulado
+2026-11-15 00:00:00,P011,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-15 00:00:00,P012,0,0,0,23,23,Ativo,Simulado
+2026-11-15 00:00:00,P013,0,0,0,17,17,Ativo,Simulado
+2026-11-15 00:00:00,P014,0,0,0,13,13,Ativo,Simulado
+2026-11-15 00:00:00,P015,0,0,0,4,4,Ativo com alerta,Simulado
+2026-11-15 00:00:00,P016,2,2,0,8,6,Ativo,Simulado
+2026-11-15 00:00:00,P017,0,0,0,14,14,Ativo com alerta,Simulado
+2026-11-15 00:00:00,P018,0,0,0,26,26,Ativo,Simulado
+2026-11-15 00:00:00,P019,0,0,0,10,10,Ativo,Simulado
+2026-11-15 00:00:00,P020,0,0,0,48,48,Ativo,Simulado
+2026-11-15 00:00:00,P021,0,0,0,42,42,Ativo,Simulado
+2026-11-15 00:00:00,P022,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-15 00:00:00,P023,0,0,0,14,14,Ativo com alerta,Simulado
+2026-11-15 00:00:00,P024,0,0,0,40,40,Ativo,Simulado
+2026-11-15 00:00:00,P025,0,0,0,49,49,Ativo,Simulado
+2026-11-15 00:00:00,P026,0,0,0,18,18,Ativo,Simulado
+2026-11-15 00:00:00,P027,0,0,0,37,37,Ativo,Simulado
+2026-11-15 00:00:00,P028,0,0,0,16,16,Ativo,Simulado
+2026-11-15 00:00:00,P029,0,0,0,11,11,Ativo,Simulado
+2026-11-15 00:00:00,P030,0,0,0,32,32,Ativo,Simulado
+2026-11-15 00:00:00,P031,0,0,0,13,13,Ativo,Simulado
+2026-11-15 00:00:00,P032,0,0,0,39,39,Ativo,Simulado
+2026-11-15 00:00:00,P033,0,0,0,16,16,Ativo,Simulado
+2026-11-15 00:00:00,P034,0,0,0,36,36,Ativo,Simulado
+2026-11-15 00:00:00,P035,0,0,0,23,23,Ativo,Simulado
+2026-11-15 00:00:00,P036,1,1,0,12,11,Ativo com alerta,Simulado
+2026-11-16 00:00:00,P001,0,0,0,17,17,Ativo,Simulado
+2026-11-16 00:00:00,P002,1,1,0,11,10,Ativo,Simulado
+2026-11-16 00:00:00,P003,0,0,0,11,11,Ativo,Simulado
+2026-11-16 00:00:00,P004,0,0,0,9,9,Ativo,Simulado
+2026-11-16 00:00:00,P005,1,1,0,36,35,Ativo,Simulado
+2026-11-16 00:00:00,P006,0,0,0,14,14,Ativo com alerta,Simulado
+2026-11-16 00:00:00,P007,0,0,0,27,27,Ativo,Simulado
+2026-11-16 00:00:00,P008,0,0,0,8,8,Ativo,Simulado
+2026-11-16 00:00:00,P009,0,0,0,13,13,Ativo,Simulado
+2026-11-16 00:00:00,P010,0,0,0,11,11,Ativo,Simulado
+2026-11-16 00:00:00,P011,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-16 00:00:00,P012,0,0,0,23,23,Ativo,Simulado
+2026-11-16 00:00:00,P013,0,0,0,17,17,Ativo,Simulado
+2026-11-16 00:00:00,P014,0,0,0,13,13,Ativo,Simulado
+2026-11-16 00:00:00,P015,0,0,0,4,4,Ativo com alerta,Simulado
+2026-11-16 00:00:00,P016,0,0,0,6,6,Ativo,Simulado
+2026-11-16 00:00:00,P017,1,1,0,14,13,Ativo com alerta,Simulado
+2026-11-16 00:00:00,P018,0,0,0,26,26,Ativo,Simulado
+2026-11-16 00:00:00,P019,0,0,0,10,10,Ativo,Simulado
+2026-11-16 00:00:00,P020,0,0,0,48,48,Ativo,Simulado
+2026-11-16 00:00:00,P021,0,0,0,42,42,Ativo,Simulado
+2026-11-16 00:00:00,P022,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-16 00:00:00,P023,0,0,0,14,14,Ativo com alerta,Simulado
+2026-11-16 00:00:00,P024,0,0,0,40,40,Ativo,Simulado
+2026-11-16 00:00:00,P025,0,0,0,49,49,Ativo,Simulado
+2026-11-16 00:00:00,P026,2,2,0,18,16,Ativo,Simulado
+2026-11-16 00:00:00,P027,0,0,0,37,37,Ativo,Simulado
+2026-11-16 00:00:00,P028,0,0,0,16,16,Ativo,Simulado
+2026-11-16 00:00:00,P029,0,0,0,11,11,Ativo,Simulado
+2026-11-16 00:00:00,P030,0,0,0,32,32,Ativo,Simulado
+2026-11-16 00:00:00,P031,0,0,0,13,13,Ativo,Simulado
+2026-11-16 00:00:00,P032,1,1,0,39,38,Ativo,Simulado
+2026-11-16 00:00:00,P033,0,0,0,16,16,Ativo,Simulado
+2026-11-16 00:00:00,P034,0,0,0,36,36,Ativo,Simulado
+2026-11-16 00:00:00,P035,0,0,0,23,23,Ativo,Simulado
+2026-11-16 00:00:00,P036,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-17 00:00:00,P001,1,1,0,17,16,Ativo,Simulado
+2026-11-17 00:00:00,P002,0,0,0,10,10,Ativo,Simulado
+2026-11-17 00:00:00,P003,0,0,0,11,11,Ativo,Simulado
+2026-11-17 00:00:00,P004,0,0,0,9,9,Ativo,Simulado
+2026-11-17 00:00:00,P005,0,0,0,35,35,Ativo,Simulado
+2026-11-17 00:00:00,P006,0,0,0,14,14,Ativo com alerta,Simulado
+2026-11-17 00:00:00,P007,0,0,0,27,27,Ativo,Simulado
+2026-11-17 00:00:00,P008,0,0,0,8,8,Ativo,Simulado
+2026-11-17 00:00:00,P009,1,1,0,13,12,Ativo,Simulado
+2026-11-17 00:00:00,P010,0,0,0,11,11,Ativo,Simulado
+2026-11-17 00:00:00,P011,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-17 00:00:00,P012,0,0,0,23,23,Ativo,Simulado
+2026-11-17 00:00:00,P013,0,0,0,17,17,Ativo,Simulado
+2026-11-17 00:00:00,P014,0,0,0,13,13,Ativo,Simulado
+2026-11-17 00:00:00,P015,1,1,0,4,3,Ativo com alerta,Simulado
+2026-11-17 00:00:00,P016,0,0,0,6,6,Ativo,Simulado
+2026-11-17 00:00:00,P017,0,0,0,13,13,Ativo com alerta,Simulado
+2026-11-17 00:00:00,P018,0,0,0,26,26,Ativo,Simulado
+2026-11-17 00:00:00,P019,1,1,0,10,9,Ativo com alerta,Simulado
+2026-11-17 00:00:00,P020,0,0,0,48,48,Ativo,Simulado
+2026-11-17 00:00:00,P021,0,0,0,42,42,Ativo,Simulado
+2026-11-17 00:00:00,P022,0,0,0,11,11,Ativo com alerta,Simulado
+2026-11-17 00:00:00,P023,0,0,0,14,14,Ativo com alerta,Simulado
+2026-11-17 00:00:00,P024,1,1,0,40,39,Ativo,Simulado
+2026-11-17 00:00:00,P025,0,0,0,49,49,Ativo,Simulado
+2026-11-17 00:00:00,P026,0,0,0,16,16,Ativo,Simulado
+2026-11-17 00:00:00,P027,0,0,0,37,37,Ativo,Simulado
+2026-11-17 00:00:00,P028,0,0,0,16,16,Ativo,Simulado
+2026-11-17 00:00:00,P029,0,0,0,11,11,Ativo,Simulado
+2026-11-17 00:00:00,P030,3,3,0,32,29,Ativo,Simulado
+2026-11-17 00:00:00,P031,0,0,0,13,13,Ativo,Simulado
+2026-11-17 00:00:00,P032,0,0,0,38,38,Ativo,Simulado
+2026-11-17 00:00:00,P033,3,3,0,16,13,Ativo,Simulado
+2026-11-17 00:00:00,P034,0,0,0,36,36,Ativo,Simulado
+2026-11-17 00:00:00,P035,0,0,0,23,23,Ativo,Simulado
+2026-11-17 00:00:00,P036,0,0,0,11,11,Ativo com alerta,Simulado

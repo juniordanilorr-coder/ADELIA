@@ -1,0 +1,2 @@
+﻿executado_em,data_inicial_processada,data_final_processada,dias_processados,demanda_solicitada_simulada,unidades_vendidas_simuladas,unidades_nao_atendidas_simuladas,status_execucao,origem_dado
+2026-11-17 12:33:55.471764,2026-11-01 00:00:00,2026-11-17 00:00:00,17,147,141,6,Concluída,Simulado

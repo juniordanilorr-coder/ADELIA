@@ -1,0 +1,37 @@
+﻿produto_id,nome_produto,categoria,marca,custo_unitario_atual,preco_venda_referencia
+P001,Notebook Start 14,Notebooks,Lenovo,2450.00,3299.00
+P002,Notebook Office 15,Notebooks,Acer,2780.00,3699.00
+P003,Notebook Pro 15,Notebooks,Dell,3850.00,5199.00
+P004,Notebook Gamer G5,Notebooks,Acer,4650.00,6199.00
+P005,Notebook Slim 13,Notebooks,ASUS,3200.00,4299.00
+P006,Notebook Work 16,Notebooks,Lenovo,3550.00,4799.00
+P007,Smartphone Basic A,Smartphones,Samsung,680.00,999.00
+P008,Smartphone Plus B,Smartphones,Motorola,920.00,1399.00
+P009,Smartphone Pro C,Smartphones,Samsung,1850.00,2499.00
+P010,Smartphone Edge D,Smartphones,Motorola,1450.00,1999.00
+P011,Smartphone Max E,Smartphones,Xiaomi,2100.00,2899.00
+P012,Smartphone Lite F,Smartphones,Xiaomi,820.00,1199.00
+P013,Computador Desktop Basic,Computadores,Positivo,1750.00,2399.00
+P014,Computador Desktop Office,Computadores,Dell,2480.00,3299.00
+P015,Computador Desktop Pro,Computadores,Lenovo,3250.00,4399.00
+P016,Computador Gamer G1,Computadores,Acer,4200.00,5699.00
+P017,Tablet Study 10,Tablets,Samsung,720.00,999.00
+P018,Tablet Pro 11,Tablets,Apple,2350.00,3099.00
+P019,Tablet Kids 8,Tablets,Multilaser,390.00,599.00
+P020,Tablet Plus 10,Tablets,Lenovo,1050.00,1499.00
+P021,Monitor LED 24,Periféricos,LG,560.00,799.00
+P022,Monitor Gamer 27,Periféricos,AOC,1120.00,1599.00
+P023,Teclado Mecânico,Periféricos,Redragon,180.00,299.00
+P024,Mouse Gamer,Periféricos,Logitech,95.00,169.00
+P025,Headset USB,Periféricos,JBL,135.00,229.00
+P026,Webcam Full HD,Periféricos,Logitech,155.00,249.00
+P027,Carregador USB-C,Acessórios,Samsung,42.00,79.00
+P028,Cabo USB-C 1m,Acessórios,Baseus,18.00,39.00
+P029,Capa para Smartphone,Acessórios,Genérica,14.00,35.00
+P030,Película de Proteção,Acessórios,Genérica,8.00,25.00
+P031,Mochila para Notebook,Acessórios,Targus,95.00,159.00
+P032,Suporte para Notebook,Acessórios,Multilaser,48.00,89.00
+P033,Hub USB 4 portas,Acessórios,Ugreen,58.00,99.00
+P034,Pendrive 64 GB,Acessórios,SanDisk,28.00,49.00
+P035,SSD Externo 1 TB,Acessórios,Kingston,310.00,449.00
+P036,Filtro de Linha,Acessórios,Intelbras,38.00,69.00
