@@ -1,7 +1,7 @@
 # ADÉLIA
 
 <p align="center">
-  <img src="assets/adelia_logo_readme.png" width="320" alt="Logo ADÉLIA">
+  <img src="assets/adelia_logo.png" width="320" alt="Logo ADÉLIA">
 </p>
 
 <p align="center"><strong>Sistema Inteligente de Apoio à Decisão</strong><br>Projeto de conclusão de curso em Ciência de Dados</p>
