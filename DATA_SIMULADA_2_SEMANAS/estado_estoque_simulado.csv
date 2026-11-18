@@ -1,37 +1,37 @@
 ﻿produto_id,nome_produto,categoria,quantidade_disponivel_simulada,estoque_minimo,status_venda_simulado,data_ultima_atualizacao,prazo_fornecedor_semanas_simulado,origem_dado
-P001,Notebook Start 14,Notebooks,16,10,Ativo,2026-11-17,2,Simulado
-P002,Notebook Office 15,Notebooks,10,8,Ativo,2026-11-17,2,Simulado
-P003,Notebook Pro 15,Notebooks,11,10,Ativo,2026-11-17,2,Simulado
-P004,Notebook Gamer G5,Notebooks,9,8,Ativo,2026-11-17,2,Simulado
-P005,Notebook Slim 13,Notebooks,35,12,Ativo,2026-11-17,2,Simulado
-P006,Notebook Work 16,Notebooks,14,15,Ativo com alerta,2026-11-17,2,Simulado
-P007,Smartphone Basic A,Smartphones,27,5,Ativo,2026-11-17,2,Simulado
-P008,Smartphone Plus B,Smartphones,8,5,Ativo,2026-11-17,2,Simulado
-P009,Smartphone Pro C,Smartphones,12,12,Ativo,2026-11-17,2,Simulado
-P010,Smartphone Edge D,Smartphones,11,10,Ativo,2026-11-17,2,Simulado
-P011,Smartphone Max E,Smartphones,11,12,Ativo com alerta,2026-11-17,2,Simulado
-P012,Smartphone Lite F,Smartphones,23,5,Ativo,2026-11-17,2,Simulado
-P013,Computador Desktop Basic,Computadores,17,12,Ativo,2026-11-17,2,Simulado
-P014,Computador Desktop Office,Computadores,13,12,Ativo,2026-11-17,2,Simulado
-P015,Computador Desktop Pro,Computadores,3,5,Ativo com alerta,2026-11-17,2,Simulado
-P016,Computador Gamer G1,Computadores,6,5,Ativo,2026-11-17,2,Simulado
-P017,Tablet Study 10,Tablets,13,15,Ativo com alerta,2026-11-17,2,Simulado
-P018,Tablet Pro 11,Tablets,26,15,Ativo,2026-11-17,2,Simulado
-P019,Tablet Kids 8,Tablets,9,10,Ativo com alerta,2026-11-17,2,Simulado
-P020,Tablet Plus 10,Tablets,48,10,Ativo,2026-11-17,2,Simulado
-P021,Monitor LED 24,Periféricos,42,15,Ativo,2026-11-17,2,Simulado
-P022,Monitor Gamer 27,Periféricos,11,12,Ativo com alerta,2026-11-17,2,Simulado
-P023,Teclado Mecânico,Periféricos,14,15,Ativo com alerta,2026-11-17,2,Simulado
-P024,Mouse Gamer,Periféricos,39,15,Ativo,2026-11-17,2,Simulado
-P025,Headset USB,Periféricos,49,10,Ativo,2026-11-17,2,Simulado
-P026,Webcam Full HD,Periféricos,16,15,Ativo,2026-11-17,2,Simulado
-P027,Carregador USB-C,Acessórios,37,12,Ativo,2026-11-17,2,Simulado
-P028,Cabo USB-C 1m,Acessórios,16,15,Ativo,2026-11-17,2,Simulado
-P029,Capa para Smartphone,Acessórios,11,5,Ativo,2026-11-17,2,Simulado
-P030,Película de Proteção,Acessórios,29,15,Ativo,2026-11-17,2,Simulado
-P031,Mochila para Notebook,Acessórios,13,8,Ativo,2026-11-17,2,Simulado
-P032,Suporte para Notebook,Acessórios,38,10,Ativo,2026-11-17,2,Simulado
-P033,Hub USB 4 portas,Acessórios,13,12,Ativo,2026-11-17,2,Simulado
-P034,Pendrive 64 GB,Acessórios,36,8,Ativo,2026-11-17,2,Simulado
-P035,SSD Externo 1 TB,Acessórios,23,12,Ativo,2026-11-17,2,Simulado
-P036,Filtro de Linha,Acessórios,11,15,Ativo com alerta,2026-11-17,2,Simulado
+P001,Notebook Start 14,Notebooks,16,10,Ativo,2026-11-18,2,Simulado
+P002,Notebook Office 15,Notebooks,10,8,Ativo,2026-11-18,2,Simulado
+P003,Notebook Pro 15,Notebooks,11,10,Ativo,2026-11-18,2,Simulado
+P004,Notebook Gamer G5,Notebooks,8,8,Ativo,2026-11-18,2,Simulado
+P005,Notebook Slim 13,Notebooks,35,12,Ativo,2026-11-18,2,Simulado
+P006,Notebook Work 16,Notebooks,14,15,Ativo com alerta,2026-11-18,2,Simulado
+P007,Smartphone Basic A,Smartphones,27,5,Ativo,2026-11-18,2,Simulado
+P008,Smartphone Plus B,Smartphones,8,5,Ativo,2026-11-18,2,Simulado
+P009,Smartphone Pro C,Smartphones,12,12,Ativo,2026-11-18,2,Simulado
+P010,Smartphone Edge D,Smartphones,9,10,Ativo com alerta,2026-11-18,2,Simulado
+P011,Smartphone Max E,Smartphones,11,12,Ativo com alerta,2026-11-18,2,Simulado
+P012,Smartphone Lite F,Smartphones,23,5,Ativo,2026-11-18,2,Simulado
+P013,Computador Desktop Basic,Computadores,17,12,Ativo,2026-11-18,2,Simulado
+P014,Computador Desktop Office,Computadores,13,12,Ativo,2026-11-18,2,Simulado
+P015,Computador Desktop Pro,Computadores,3,5,Ativo com alerta,2026-11-18,2,Simulado
+P016,Computador Gamer G1,Computadores,6,5,Ativo,2026-11-18,2,Simulado
+P017,Tablet Study 10,Tablets,13,15,Ativo com alerta,2026-11-18,2,Simulado
+P018,Tablet Pro 11,Tablets,26,15,Ativo,2026-11-18,2,Simulado
+P019,Tablet Kids 8,Tablets,9,10,Ativo com alerta,2026-11-18,2,Simulado
+P020,Tablet Plus 10,Tablets,48,10,Ativo,2026-11-18,2,Simulado
+P021,Monitor LED 24,Periféricos,42,15,Ativo,2026-11-18,2,Simulado
+P022,Monitor Gamer 27,Periféricos,11,12,Ativo com alerta,2026-11-18,2,Simulado
+P023,Teclado Mecânico,Periféricos,14,15,Ativo com alerta,2026-11-18,2,Simulado
+P024,Mouse Gamer,Periféricos,37,15,Ativo,2026-11-18,2,Simulado
+P025,Headset USB,Periféricos,48,10,Ativo,2026-11-18,2,Simulado
+P026,Webcam Full HD,Periféricos,16,15,Ativo,2026-11-18,2,Simulado
+P027,Carregador USB-C,Acessórios,35,12,Ativo,2026-11-18,2,Simulado
+P028,Cabo USB-C 1m,Acessórios,16,15,Ativo,2026-11-18,2,Simulado
+P029,Capa para Smartphone,Acessórios,5,5,Ativo,2026-11-18,2,Simulado
+P030,Película de Proteção,Acessórios,29,15,Ativo,2026-11-18,2,Simulado
+P031,Mochila para Notebook,Acessórios,12,8,Ativo,2026-11-18,2,Simulado
+P032,Suporte para Notebook,Acessórios,38,10,Ativo,2026-11-18,2,Simulado
+P033,Hub USB 4 portas,Acessórios,13,12,Ativo,2026-11-18,2,Simulado
+P034,Pendrive 64 GB,Acessórios,36,8,Ativo,2026-11-18,2,Simulado
+P035,SSD Externo 1 TB,Acessórios,23,12,Ativo,2026-11-18,2,Simulado
+P036,Filtro de Linha,Acessórios,11,15,Ativo com alerta,2026-11-18,2,Simulado

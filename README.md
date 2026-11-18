@@ -88,13 +88,27 @@ ADELIA/
 
 ## Capturas de tela
 
-Capturas ajudam a apresentar o sistema no GitHub. Recomendo incluir a visão geral, a tela de faturamento e a tabela de recomendações. Salve as imagens em `docs/images/` com nomes simples, por exemplo `visao-geral.png`, e adicione cada uma assim:
+A interface reúne o acompanhamento de estoque, as estimativas de faturamento e as recomendações da simulação. As telas abaixo usam dados fictícios; os valores da simulação podem mudar a cada atualização diária.
 
-```markdown
-![Visão geral da ADÉLIA](docs/images/visao-geral.png)
-```
+### Visão geral
 
-Use capturas sem informações pessoais e confira se os textos estão legíveis antes de publicá-las.
+<p align="center"><img src="docs/images/visao-geral.png" alt="Painel de visão geral da ADÉLIA" width="900"></p>
+
+### Previsão de faturamento
+
+<p align="center"><img src="docs/images/previsao-faturamento.png" alt="Estimativa de faturamento por produto" width="900"></p>
+
+### Recomendações operacionais
+
+<p align="center"><img src="docs/images/recomendacoes.png" alt="Tabela de recomendações operacionais" width="900"></p>
+
+### Produtos e estoque
+
+<p align="center"><img src="docs/images/produtos-estoque.png" alt="Catálogo de produtos e saldo de estoque" width="900"></p>
+
+### Simulação diária
+
+<p align="center"><img src="docs/images/simulacao-diaria.png" alt="Resumo da simulação diária de vendas e estoque" width="900"></p>
 
 ## Observações e limitações
 
